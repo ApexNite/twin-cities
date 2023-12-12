@@ -1,0 +1,7328 @@
+[
+  {
+    "Rank": 1,
+    "City": "New York",
+    "State": "New York",
+    "Population": {
+      "TwentyTwentyTwo": 8335897,
+      "TwentyTwenty": 8804190,
+      "Change": -5.32
+    },
+    "LandArea": {
+      "SquareMiles": 300.5,
+      "SquareKilometers": 778.3
+    },
+    "PopulationDensity": {
+      "SquareMiles": 29298,
+      "SquareKilometers": 11312
+    },
+    "Location": {
+      "North": 40.66,
+      "West": 73.94
+    }
+  },
+  {
+    "Rank": 2,
+    "City": "Los Angeles",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 3822238,
+      "TwentyTwenty": 3898747,
+      "Change": -1.96
+    },
+    "LandArea": {
+      "SquareMiles": 469.5,
+      "SquareKilometers": 1216
+    },
+    "PopulationDensity": {
+      "SquareMiles": 8304,
+      "SquareKilometers": 3206
+    },
+    "Location": {
+      "North": 34.02,
+      "West": 118.41
+    }
+  },
+  {
+    "Rank": 3,
+    "City": "Chicago",
+    "State": "Illinois",
+    "Population": {
+      "TwentyTwentyTwo": 2665039,
+      "TwentyTwenty": 2746388,
+      "Change": -2.96
+    },
+    "LandArea": {
+      "SquareMiles": 227.7,
+      "SquareKilometers": 589.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 12061,
+      "SquareKilometers": 4657
+    },
+    "Location": {
+      "North": 41.84,
+      "West": 87.68
+    }
+  },
+  {
+    "Rank": 4,
+    "City": "Houston",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 2302878,
+      "TwentyTwenty": 2304580,
+      "Change": -0.07
+    },
+    "LandArea": {
+      "SquareMiles": 640.4,
+      "SquareKilometers": 1658.6
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3599,
+      "SquareKilometers": 1390
+    },
+    "Location": {
+      "North": 29.79,
+      "West": 95.39
+    }
+  },
+  {
+    "Rank": 5,
+    "City": "Phoenix",
+    "State": "Arizona",
+    "Population": {
+      "TwentyTwentyTwo": 1644409,
+      "TwentyTwenty": 1608139,
+      "Change": 2.26
+    },
+    "LandArea": {
+      "SquareMiles": 518,
+      "SquareKilometers": 1341.6
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3105,
+      "SquareKilometers": 1199
+    },
+    "Location": {
+      "North": 33.57,
+      "West": 112.09
+    }
+  },
+  {
+    "Rank": 6,
+    "City": "Philadelphia",
+    "State": "Pennsylvania",
+    "Population": {
+      "TwentyTwentyTwo": 1567258,
+      "TwentyTwenty": 1603797,
+      "Change": -2.28
+    },
+    "LandArea": {
+      "SquareMiles": 134.4,
+      "SquareKilometers": 348.1
+    },
+    "PopulationDensity": {
+      "SquareMiles": 11933,
+      "SquareKilometers": 4607
+    },
+    "Location": {
+      "North": 40.01,
+      "West": 75.13
+    }
+  },
+  {
+    "Rank": 7,
+    "City": "San Antonio",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 1472909,
+      "TwentyTwenty": 1434625,
+      "Change": 2.67
+    },
+    "LandArea": {
+      "SquareMiles": 498.8,
+      "SquareKilometers": 1291.9
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2876,
+      "SquareKilometers": 1110
+    },
+    "Location": {
+      "North": 29.46,
+      "West": 98.52
+    }
+  },
+  {
+    "Rank": 8,
+    "City": "San Diego",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 1381162,
+      "TwentyTwenty": 1386932,
+      "Change": -0.42
+    },
+    "LandArea": {
+      "SquareMiles": 325.9,
+      "SquareKilometers": 844.1
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4256,
+      "SquareKilometers": 1643
+    },
+    "Location": {
+      "North": 32.81,
+      "West": 117.14
+    }
+  },
+  {
+    "Rank": 9,
+    "City": "Dallas",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 1299544,
+      "TwentyTwenty": 1304379,
+      "Change": -0.37
+    },
+    "LandArea": {
+      "SquareMiles": 339.6,
+      "SquareKilometers": 879.6
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3841,
+      "SquareKilometers": 1483
+    },
+    "Location": {
+      "North": 32.79,
+      "West": 96.77
+    }
+  },
+  {
+    "Rank": 10,
+    "City": "Austin",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 974447,
+      "TwentyTwenty": 961855,
+      "Change": 1.31
+    },
+    "LandArea": {
+      "SquareMiles": 319.9,
+      "SquareKilometers": 828.5
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3007,
+      "SquareKilometers": 1161
+    },
+    "Location": {
+      "North": 30.3,
+      "West": 97.75
+    }
+  },
+  {
+    "Rank": 11,
+    "City": "Jacksonville",
+    "State": "Florida",
+    "Population": {
+      "TwentyTwentyTwo": 971319,
+      "TwentyTwenty": 949611,
+      "Change": 2.29
+    },
+    "LandArea": {
+      "SquareMiles": 747.3,
+      "SquareKilometers": 1935.5
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1271,
+      "SquareKilometers": 491
+    },
+    "Location": {
+      "North": 30.34,
+      "West": 81.66
+    }
+  },
+  {
+    "Rank": 12,
+    "City": "San Jose",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 971233,
+      "TwentyTwenty": 1013240,
+      "Change": -4.15
+    },
+    "LandArea": {
+      "SquareMiles": 178.3,
+      "SquareKilometers": 461.8
+    },
+    "PopulationDensity": {
+      "SquareMiles": 5683,
+      "SquareKilometers": 2194
+    },
+    "Location": {
+      "North": 37.3,
+      "West": 121.81
+    }
+  },
+  {
+    "Rank": 13,
+    "City": "Fort Worth",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 956709,
+      "TwentyTwenty": 918915,
+      "Change": 4.11
+    },
+    "LandArea": {
+      "SquareMiles": 347.3,
+      "SquareKilometers": 899.5
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2646,
+      "SquareKilometers": 1022
+    },
+    "Location": {
+      "North": 32.78,
+      "West": 97.35
+    }
+  },
+  {
+    "Rank": 14,
+    "City": "Columbus",
+    "State": "Ohio",
+    "Population": {
+      "TwentyTwentyTwo": 907971,
+      "TwentyTwenty": 905748,
+      "Change": 0.25
+    },
+    "LandArea": {
+      "SquareMiles": 220,
+      "SquareKilometers": 569.8
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4117,
+      "SquareKilometers": 1590
+    },
+    "Location": {
+      "North": 39.99,
+      "West": 82.99
+    }
+  },
+  {
+    "Rank": 15,
+    "City": "Charlotte",
+    "State": "North Carolina",
+    "Population": {
+      "TwentyTwentyTwo": 897720,
+      "TwentyTwenty": 874579,
+      "Change": 2.65
+    },
+    "LandArea": {
+      "SquareMiles": 308.3,
+      "SquareKilometers": 798.5
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2837,
+      "SquareKilometers": 1095
+    },
+    "Location": {
+      "North": 35.21,
+      "West": 80.83
+    }
+  },
+  {
+    "Rank": 16,
+    "City": "Indianapolis",
+    "State": "Indiana",
+    "Population": {
+      "TwentyTwentyTwo": 880621,
+      "TwentyTwenty": 887642,
+      "Change": -0.79
+    },
+    "LandArea": {
+      "SquareMiles": 361.6,
+      "SquareKilometers": 936.5
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2455,
+      "SquareKilometers": 948
+    },
+    "Location": {
+      "North": 39.78,
+      "West": 86.15
+    }
+  },
+  {
+    "Rank": 17,
+    "City": "San Francisco",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 808437,
+      "TwentyTwenty": 873965,
+      "Change": -7.5
+    },
+    "LandArea": {
+      "SquareMiles": 46.9,
+      "SquareKilometers": 121.5
+    },
+    "PopulationDensity": {
+      "SquareMiles": 18635,
+      "SquareKilometers": 7195
+    },
+    "Location": {
+      "North": 37.73,
+      "West": 123.03
+    }
+  },
+  {
+    "Rank": 18,
+    "City": "Seattle",
+    "State": "Washington",
+    "Population": {
+      "TwentyTwentyTwo": 749256,
+      "TwentyTwenty": 737015,
+      "Change": 1.66
+    },
+    "LandArea": {
+      "SquareMiles": 83.8,
+      "SquareKilometers": 217
+    },
+    "PopulationDensity": {
+      "SquareMiles": 8795,
+      "SquareKilometers": 3396
+    },
+    "Location": {
+      "North": 47.62,
+      "West": 122.35
+    }
+  },
+  {
+    "Rank": 19,
+    "City": "Denver",
+    "State": "Colorado",
+    "Population": {
+      "TwentyTwentyTwo": 713252,
+      "TwentyTwenty": 715522,
+      "Change": -0.32
+    },
+    "LandArea": {
+      "SquareMiles": 153.1,
+      "SquareKilometers": 396.5
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4674,
+      "SquareKilometers": 1805
+    },
+    "Location": {
+      "North": 39.76,
+      "West": 104.88
+    }
+  },
+  {
+    "Rank": 20,
+    "City": "Oklahoma City",
+    "State": "Oklahoma",
+    "Population": {
+      "TwentyTwentyTwo": 694800,
+      "TwentyTwenty": 681054,
+      "Change": 2.02
+    },
+    "LandArea": {
+      "SquareMiles": 606.2,
+      "SquareKilometers": 1570.1
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1123,
+      "SquareKilometers": 434
+    },
+    "Location": {
+      "North": 35.47,
+      "West": 97.51
+    }
+  },
+  {
+    "Rank": 21,
+    "City": "Nashville",
+    "State": "Tennessee",
+    "Population": {
+      "TwentyTwentyTwo": 683622,
+      "TwentyTwenty": 689447,
+      "Change": -0.84
+    },
+    "LandArea": {
+      "SquareMiles": 475.8,
+      "SquareKilometers": 1232.3
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1449,
+      "SquareKilometers": 559
+    },
+    "Location": {
+      "North": 36.17,
+      "West": 86.79
+    }
+  },
+  {
+    "Rank": 22,
+    "City": "El Paso",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 677456,
+      "TwentyTwenty": 678815,
+      "Change": -0.2
+    },
+    "LandArea": {
+      "SquareMiles": 258.4,
+      "SquareKilometers": 669.3
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2627,
+      "SquareKilometers": 1014
+    },
+    "Location": {
+      "North": 31.85,
+      "West": 106.43
+    }
+  },
+  {
+    "Rank": 23,
+    "City": "Washington",
+    "State": "District of Columbia",
+    "Population": {
+      "TwentyTwentyTwo": 671803,
+      "TwentyTwenty": 689545,
+      "Change": -2.57
+    },
+    "LandArea": {
+      "SquareMiles": 61.1,
+      "SquareKilometers": 158.2
+    },
+    "PopulationDensity": {
+      "SquareMiles": 11286,
+      "SquareKilometers": 4358
+    },
+    "Location": {
+      "North": 38.9,
+      "West": 77.02
+    }
+  },
+  {
+    "Rank": 24,
+    "City": "Las Vegas",
+    "State": "Nevada",
+    "Population": {
+      "TwentyTwentyTwo": 656274,
+      "TwentyTwenty": 641903,
+      "Change": 2.24
+    },
+    "LandArea": {
+      "SquareMiles": 141.8,
+      "SquareKilometers": 367.3
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4527,
+      "SquareKilometers": 1748
+    },
+    "Location": {
+      "North": 36.23,
+      "West": 115.26
+    }
+  },
+  {
+    "Rank": 25,
+    "City": "Boston",
+    "State": "Massachusetts",
+    "Population": {
+      "TwentyTwentyTwo": 650706,
+      "TwentyTwenty": 675647,
+      "Change": -3.69
+    },
+    "LandArea": {
+      "SquareMiles": 48.3,
+      "SquareKilometers": 125.1
+    },
+    "PopulationDensity": {
+      "SquareMiles": 13989,
+      "SquareKilometers": 5401
+    },
+    "Location": {
+      "North": 42.34,
+      "West": 71.02
+    }
+  },
+  {
+    "Rank": 26,
+    "City": "Portland",
+    "State": "Oregon",
+    "Population": {
+      "TwentyTwentyTwo": 635067,
+      "TwentyTwenty": 652503,
+      "Change": -2.67
+    },
+    "LandArea": {
+      "SquareMiles": 133.5,
+      "SquareKilometers": 345.8
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4888,
+      "SquareKilometers": 1887
+    },
+    "Location": {
+      "North": 45.54,
+      "West": 122.65
+    }
+  },
+  {
+    "Rank": 27,
+    "City": "Louisville",
+    "State": "Kentucky",
+    "Population": {
+      "TwentyTwentyTwo": 624444,
+      "TwentyTwenty": 633045,
+      "Change": -1.36
+    },
+    "LandArea": {
+      "SquareMiles": 324.9,
+      "SquareKilometers": 841.5
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1948,
+      "SquareKilometers": 752
+    },
+    "Location": {
+      "North": 38.17,
+      "West": 85.65
+    }
+  },
+  {
+    "Rank": 28,
+    "City": "Memphis",
+    "State": "Tennessee",
+    "Population": {
+      "TwentyTwentyTwo": 621056,
+      "TwentyTwenty": 633104,
+      "Change": -1.9
+    },
+    "LandArea": {
+      "SquareMiles": 297,
+      "SquareKilometers": 769.2
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2132,
+      "SquareKilometers": 823
+    },
+    "Location": {
+      "North": 35.11,
+      "West": 89.97
+    }
+  },
+  {
+    "Rank": 29,
+    "City": "Detroit",
+    "State": "Michigan",
+    "Population": {
+      "TwentyTwentyTwo": 620376,
+      "TwentyTwenty": 639111,
+      "Change": -2.93
+    },
+    "LandArea": {
+      "SquareMiles": 138.7,
+      "SquareKilometers": 359.2
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4608,
+      "SquareKilometers": 1779
+    },
+    "Location": {
+      "North": 42.38,
+      "West": 83.1
+    }
+  },
+  {
+    "Rank": 30,
+    "City": "Baltimore",
+    "State": "Maryland",
+    "Population": {
+      "TwentyTwentyTwo": 569931,
+      "TwentyTwenty": 585708,
+      "Change": -2.69
+    },
+    "LandArea": {
+      "SquareMiles": 80.9,
+      "SquareKilometers": 209.5
+    },
+    "PopulationDensity": {
+      "SquareMiles": 7240,
+      "SquareKilometers": 2800
+    },
+    "Location": {
+      "North": 39.3,
+      "West": 76.61
+    }
+  },
+  {
+    "Rank": 31,
+    "City": "Milwaukee",
+    "State": "Wisconsin",
+    "Population": {
+      "TwentyTwentyTwo": 563305,
+      "TwentyTwenty": 577222,
+      "Change": -2.41
+    },
+    "LandArea": {
+      "SquareMiles": 96.2,
+      "SquareKilometers": 249.2
+    },
+    "PopulationDensity": {
+      "SquareMiles": 6000,
+      "SquareKilometers": 2300
+    },
+    "Location": {
+      "North": 43.06,
+      "West": 87.97
+    }
+  },
+  {
+    "Rank": 32,
+    "City": "Albuquerque",
+    "State": "New Mexico",
+    "Population": {
+      "TwentyTwentyTwo": 561008,
+      "TwentyTwenty": 564559,
+      "Change": -0.63
+    },
+    "LandArea": {
+      "SquareMiles": 187.3,
+      "SquareKilometers": 485.1
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3014,
+      "SquareKilometers": 1164
+    },
+    "Location": {
+      "North": 35.1,
+      "West": 106.65
+    }
+  },
+  {
+    "Rank": 33,
+    "City": "Tucson",
+    "State": "Arizona",
+    "Population": {
+      "TwentyTwentyTwo": 546574,
+      "TwentyTwenty": 542629,
+      "Change": 0.73
+    },
+    "LandArea": {
+      "SquareMiles": 241,
+      "SquareKilometers": 624.2
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2252,
+      "SquareKilometers": 870
+    },
+    "Location": {
+      "North": 32.15,
+      "West": 110.87
+    }
+  },
+  {
+    "Rank": 34,
+    "City": "Fresno",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 545567,
+      "TwentyTwenty": 542107,
+      "Change": 0.64
+    },
+    "LandArea": {
+      "SquareMiles": 115.2,
+      "SquareKilometers": 298.4
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4706,
+      "SquareKilometers": 1817
+    },
+    "Location": {
+      "North": 36.78,
+      "West": 119.79
+    }
+  },
+  {
+    "Rank": 35,
+    "City": "Sacramento",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 528001,
+      "TwentyTwenty": 524943,
+      "Change": 0.58
+    },
+    "LandArea": {
+      "SquareMiles": 98.6,
+      "SquareKilometers": 255.4
+    },
+    "PopulationDensity": {
+      "SquareMiles": 5324,
+      "SquareKilometers": 2056
+    },
+    "Location": {
+      "North": 38.57,
+      "West": 121.47
+    }
+  },
+  {
+    "Rank": 36,
+    "City": "Mesa",
+    "State": "Arizona",
+    "Population": {
+      "TwentyTwentyTwo": 512498,
+      "TwentyTwenty": 504258,
+      "Change": 1.63
+    },
+    "LandArea": {
+      "SquareMiles": 138.7,
+      "SquareKilometers": 359.2
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3636,
+      "SquareKilometers": 1404
+    },
+    "Location": {
+      "North": 33.4,
+      "West": 111.72
+    }
+  },
+  {
+    "Rank": 37,
+    "City": "Kansas City",
+    "State": "Missouri",
+    "Population": {
+      "TwentyTwentyTwo": 509297,
+      "TwentyTwenty": 508090,
+      "Change": 0.24
+    },
+    "LandArea": {
+      "SquareMiles": 314.7,
+      "SquareKilometers": 815.1
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1615,
+      "SquareKilometers": 624
+    },
+    "Location": {
+      "North": 39.12,
+      "West": 94.56
+    }
+  },
+  {
+    "Rank": 38,
+    "City": "Atlanta",
+    "State": "Georgia",
+    "Population": {
+      "TwentyTwentyTwo": 499127,
+      "TwentyTwenty": 498715,
+      "Change": 0.08
+    },
+    "LandArea": {
+      "SquareMiles": 135.3,
+      "SquareKilometers": 350.4
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3686,
+      "SquareKilometers": 1423
+    },
+    "Location": {
+      "North": 33.76,
+      "West": 84.42
+    }
+  },
+  {
+    "Rank": 39,
+    "City": "Colorado Springs",
+    "State": "Colorado",
+    "Population": {
+      "TwentyTwentyTwo": 486248,
+      "TwentyTwenty": 478961,
+      "Change": 1.52
+    },
+    "LandArea": {
+      "SquareMiles": 195.4,
+      "SquareKilometers": 506.1
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2451,
+      "SquareKilometers": 946
+    },
+    "Location": {
+      "North": 38.87,
+      "West": 104.76
+    }
+  },
+  {
+    "Rank": 40,
+    "City": "Omaha",
+    "State": "Nebraska",
+    "Population": {
+      "TwentyTwentyTwo": 485153,
+      "TwentyTwenty": 486051,
+      "Change": -0.18
+    },
+    "LandArea": {
+      "SquareMiles": 141.6,
+      "SquareKilometers": 366.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3433,
+      "SquareKilometers": 1325
+    },
+    "Location": {
+      "North": 41.26,
+      "West": 96.05
+    }
+  },
+  {
+    "Rank": 41,
+    "City": "Raleigh",
+    "State": "North Carolina",
+    "Population": {
+      "TwentyTwentyTwo": 476587,
+      "TwentyTwenty": 467665,
+      "Change": 1.91
+    },
+    "LandArea": {
+      "SquareMiles": 147.1,
+      "SquareKilometers": 381
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3179,
+      "SquareKilometers": 1227
+    },
+    "Location": {
+      "North": 35.83,
+      "West": 78.64
+    }
+  },
+  {
+    "Rank": 42,
+    "City": "Virginia Beach",
+    "State": "Virginia",
+    "Population": {
+      "TwentyTwentyTwo": 455618,
+      "TwentyTwenty": 459470,
+      "Change": -0.84
+    },
+    "LandArea": {
+      "SquareMiles": 244.7,
+      "SquareKilometers": 633.8
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1878,
+      "SquareKilometers": 725
+    },
+    "Location": {
+      "North": 36.78,
+      "West": 76.03
+    }
+  },
+  {
+    "Rank": 43,
+    "City": "Long Beach",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 451307,
+      "TwentyTwenty": 466742,
+      "Change": -3.31
+    },
+    "LandArea": {
+      "SquareMiles": 50.7,
+      "SquareKilometers": 131.3
+    },
+    "PopulationDensity": {
+      "SquareMiles": 9206,
+      "SquareKilometers": 3554
+    },
+    "Location": {
+      "North": 33.78,
+      "West": 118.17
+    }
+  },
+  {
+    "Rank": 44,
+    "City": "Miami",
+    "State": "Florida",
+    "Population": {
+      "TwentyTwentyTwo": 449514,
+      "TwentyTwenty": 442241,
+      "Change": 1.64
+    },
+    "LandArea": {
+      "SquareMiles": 36,
+      "SquareKilometers": 93.2
+    },
+    "PopulationDensity": {
+      "SquareMiles": 12284,
+      "SquareKilometers": 4743
+    },
+    "Location": {
+      "North": 25.78,
+      "West": 80.21
+    }
+  },
+  {
+    "Rank": 45,
+    "City": "Oakland",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 430553,
+      "TwentyTwenty": 440646,
+      "Change": -2.29
+    },
+    "LandArea": {
+      "SquareMiles": 55.9,
+      "SquareKilometers": 144.8
+    },
+    "PopulationDensity": {
+      "SquareMiles": 7883,
+      "SquareKilometers": 3044
+    },
+    "Location": {
+      "North": 37.77,
+      "West": 122.23
+    }
+  },
+  {
+    "Rank": 46,
+    "City": "Minneapolis",
+    "State": "Minnesota",
+    "Population": {
+      "TwentyTwentyTwo": 425096,
+      "TwentyTwenty": 429954,
+      "Change": -1.13
+    },
+    "LandArea": {
+      "SquareMiles": 54,
+      "SquareKilometers": 139.9
+    },
+    "PopulationDensity": {
+      "SquareMiles": 7962,
+      "SquareKilometers": 3074
+    },
+    "Location": {
+      "North": 44.96,
+      "West": 93.27
+    }
+  },
+  {
+    "Rank": 47,
+    "City": "Tulsa",
+    "State": "Oklahoma",
+    "Population": {
+      "TwentyTwentyTwo": 411867,
+      "TwentyTwenty": 413066,
+      "Change": -0.29
+    },
+    "LandArea": {
+      "SquareMiles": 197.5,
+      "SquareKilometers": 511.5
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2091,
+      "SquareKilometers": 807
+    },
+    "Location": {
+      "North": 36.13,
+      "West": 95.9
+    }
+  },
+  {
+    "Rank": 48,
+    "City": "Bakersfield",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 410647,
+      "TwentyTwenty": 403455,
+      "Change": 1.78
+    },
+    "LandArea": {
+      "SquareMiles": 149.8,
+      "SquareKilometers": 388
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2693,
+      "SquareKilometers": 1040
+    },
+    "Location": {
+      "North": 35.35,
+      "West": 119.04
+    }
+  },
+  {
+    "Rank": 49,
+    "City": "Tampa",
+    "State": "Florida",
+    "Population": {
+      "TwentyTwentyTwo": 398173,
+      "TwentyTwenty": 384959,
+      "Change": 3.43
+    },
+    "LandArea": {
+      "SquareMiles": 114,
+      "SquareKilometers": 295.3
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3377,
+      "SquareKilometers": 1304
+    },
+    "Location": {
+      "North": 27.97,
+      "West": 82.47
+    }
+  },
+  {
+    "Rank": 50,
+    "City": "Wichita",
+    "State": "Kansas",
+    "Population": {
+      "TwentyTwentyTwo": 396192,
+      "TwentyTwenty": 397532,
+      "Change": -0.34
+    },
+    "LandArea": {
+      "SquareMiles": 162,
+      "SquareKilometers": 419.6
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2454,
+      "SquareKilometers": 947
+    },
+    "Location": {
+      "North": 37.69,
+      "West": 97.35
+    }
+  },
+  {
+    "Rank": 51,
+    "City": "Arlington",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 394602,
+      "TwentyTwenty": 394266,
+      "Change": 0.09
+    },
+    "LandArea": {
+      "SquareMiles": 95.9,
+      "SquareKilometers": 248.4
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4111,
+      "SquareKilometers": 1587
+    },
+    "Location": {
+      "North": 32.7,
+      "West": 97.12
+    }
+  },
+  {
+    "Rank": 52,
+    "City": "Aurora",
+    "State": "Colorado",
+    "Population": {
+      "TwentyTwentyTwo": 393537,
+      "TwentyTwenty": 386261,
+      "Change": 1.88
+    },
+    "LandArea": {
+      "SquareMiles": 160.1,
+      "SquareKilometers": 414.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2413,
+      "SquareKilometers": 932
+    },
+    "Location": {
+      "North": 39.7,
+      "West": 104.72
+    }
+  },
+  {
+    "Rank": 53,
+    "City": "New Orleans",
+    "State": "Louisiana",
+    "Population": {
+      "TwentyTwentyTwo": 369749,
+      "TwentyTwenty": 383997,
+      "Change": -3.71
+    },
+    "LandArea": {
+      "SquareMiles": 169.5,
+      "SquareKilometers": 439
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2265,
+      "SquareKilometers": 875
+    },
+    "Location": {
+      "North": 30.05,
+      "West": 89.93
+    }
+  },
+  {
+    "Rank": 54,
+    "City": "Cleveland",
+    "State": "Ohio",
+    "Population": {
+      "TwentyTwentyTwo": 361607,
+      "TwentyTwenty": 372624,
+      "Change": -2.96
+    },
+    "LandArea": {
+      "SquareMiles": 77.7,
+      "SquareKilometers": 201.2
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4796,
+      "SquareKilometers": 1852
+    },
+    "Location": {
+      "North": 41.48,
+      "West": 81.68
+    }
+  },
+  {
+    "Rank": 55,
+    "City": "Anaheim",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 344461,
+      "TwentyTwenty": 346824,
+      "Change": -0.68
+    },
+    "LandArea": {
+      "SquareMiles": 50.3,
+      "SquareKilometers": 130.3
+    },
+    "PopulationDensity": {
+      "SquareMiles": 6895,
+      "SquareKilometers": 2662
+    },
+    "Location": {
+      "North": 33.86,
+      "West": 117.76
+    }
+  },
+  {
+    "Rank": 56,
+    "City": "Honolulu",
+    "State": "Hawaii",
+    "Population": {
+      "TwentyTwentyTwo": 343421,
+      "TwentyTwenty": 350964,
+      "Change": -2.15
+    },
+    "LandArea": {
+      "SquareMiles": 60.5,
+      "SquareKilometers": 156.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 5801,
+      "SquareKilometers": 2240
+    },
+    "Location": {
+      "North": 21.32,
+      "West": 157.85
+    }
+  },
+  {
+    "Rank": 57,
+    "City": "Henderson",
+    "State": "Nevada",
+    "Population": {
+      "TwentyTwentyTwo": 331415,
+      "TwentyTwenty": 317610,
+      "Change": 4.35
+    },
+    "LandArea": {
+      "SquareMiles": 106.2,
+      "SquareKilometers": 275.1
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2991,
+      "SquareKilometers": 1155
+    },
+    "Location": {
+      "North": 36.01,
+      "West": 115.04
+    }
+  },
+  {
+    "Rank": 58,
+    "City": "Stockton",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 321819,
+      "TwentyTwenty": 320804,
+      "Change": 0.32
+    },
+    "LandArea": {
+      "SquareMiles": 62.2,
+      "SquareKilometers": 161.1
+    },
+    "PopulationDensity": {
+      "SquareMiles": 5158,
+      "SquareKilometers": 1992
+    },
+    "Location": {
+      "North": 37.98,
+      "West": 121.31
+    }
+  },
+  {
+    "Rank": 59,
+    "City": "Riverside",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 320764,
+      "TwentyTwenty": 314998,
+      "Change": 1.83
+    },
+    "LandArea": {
+      "SquareMiles": 81.2,
+      "SquareKilometers": 210.3
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3879,
+      "SquareKilometers": 1498
+    },
+    "Location": {
+      "North": 33.94,
+      "West": 117.39
+    }
+  },
+  {
+    "Rank": 60,
+    "City": "Lexington",
+    "State": "Kentucky",
+    "Population": {
+      "TwentyTwentyTwo": 320347,
+      "TwentyTwenty": 322570,
+      "Change": -0.69
+    },
+    "LandArea": {
+      "SquareMiles": 283.6,
+      "SquareKilometers": 734.5
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1137,
+      "SquareKilometers": 439
+    },
+    "Location": {
+      "North": 38.04,
+      "West": 84.46
+    }
+  },
+  {
+    "Rank": 61,
+    "City": "Corpus Christi",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 316239,
+      "TwentyTwenty": 317863,
+      "Change": -0.51
+    },
+    "LandArea": {
+      "SquareMiles": 162.2,
+      "SquareKilometers": 420.1
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1960,
+      "SquareKilometers": 760
+    },
+    "Location": {
+      "North": 27.75,
+      "West": 97.17
+    }
+  },
+  {
+    "Rank": 62,
+    "City": "Orlando",
+    "State": "Florida",
+    "Population": {
+      "TwentyTwentyTwo": 316081,
+      "TwentyTwenty": 307573,
+      "Change": 2.77
+    },
+    "LandArea": {
+      "SquareMiles": 110.6,
+      "SquareKilometers": 286.5
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2781,
+      "SquareKilometers": 1074
+    },
+    "Location": {
+      "North": 28.41,
+      "West": 81.25
+    }
+  },
+  {
+    "Rank": 63,
+    "City": "Irvine",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 313685,
+      "TwentyTwenty": 307670,
+      "Change": 1.96
+    },
+    "LandArea": {
+      "SquareMiles": 65.6,
+      "SquareKilometers": 169.9
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4690,
+      "SquareKilometers": 1810
+    },
+    "Location": {
+      "North": 33.68,
+      "West": 117.77
+    }
+  },
+  {
+    "Rank": 64,
+    "City": "Cincinnati",
+    "State": "Ohio",
+    "Population": {
+      "TwentyTwentyTwo": 309513,
+      "TwentyTwenty": 309317,
+      "Change": 0.06
+    },
+    "LandArea": {
+      "SquareMiles": 77.8,
+      "SquareKilometers": 201.5
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3976,
+      "SquareKilometers": 1535
+    },
+    "Location": {
+      "North": 39.14,
+      "West": 84.51
+    }
+  },
+  {
+    "Rank": 65,
+    "City": "Santa Ana",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 308189,
+      "TwentyTwenty": 310227,
+      "Change": -0.66
+    },
+    "LandArea": {
+      "SquareMiles": 27.3,
+      "SquareKilometers": 70.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 11364,
+      "SquareKilometers": 4388
+    },
+    "Location": {
+      "North": 33.74,
+      "West": 117.88
+    }
+  },
+  {
+    "Rank": 66,
+    "City": "Newark",
+    "State": "New Jersey",
+    "Population": {
+      "TwentyTwentyTwo": 305344,
+      "TwentyTwenty": 311549,
+      "Change": -1.99
+    },
+    "LandArea": {
+      "SquareMiles": 24.1,
+      "SquareKilometers": 62.4
+    },
+    "PopulationDensity": {
+      "SquareMiles": 12927,
+      "SquareKilometers": 4991
+    },
+    "Location": {
+      "North": 40.72,
+      "West": 74.17
+    }
+  },
+  {
+    "Rank": 67,
+    "City": "Saint Paul",
+    "State": "Minnesota",
+    "Population": {
+      "TwentyTwentyTwo": 303176,
+      "TwentyTwenty": 311527,
+      "Change": -2.68
+    },
+    "LandArea": {
+      "SquareMiles": 52,
+      "SquareKilometers": 134.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 5991,
+      "SquareKilometers": 2313
+    },
+    "Location": {
+      "North": 44.95,
+      "West": 93.1
+    }
+  },
+  {
+    "Rank": 68,
+    "City": "Pittsburgh",
+    "State": "Pennsylvania",
+    "Population": {
+      "TwentyTwentyTwo": 302898,
+      "TwentyTwenty": 302971,
+      "Change": -0.02
+    },
+    "LandArea": {
+      "SquareMiles": 55.4,
+      "SquareKilometers": 143.5
+    },
+    "PopulationDensity": {
+      "SquareMiles": 5469,
+      "SquareKilometers": 2112
+    },
+    "Location": {
+      "North": 40.44,
+      "West": 79.98
+    }
+  },
+  {
+    "Rank": 69,
+    "City": "Greensboro",
+    "State": "North Carolina",
+    "Population": {
+      "TwentyTwentyTwo": 301115,
+      "TwentyTwenty": 299035,
+      "Change": 0.7
+    },
+    "LandArea": {
+      "SquareMiles": 129.6,
+      "SquareKilometers": 335.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2307,
+      "SquareKilometers": 891
+    },
+    "Location": {
+      "North": 36.1,
+      "West": 79.83
+    }
+  },
+  {
+    "Rank": 70,
+    "City": "Lincoln",
+    "State": "Nebraska",
+    "Population": {
+      "TwentyTwentyTwo": 292627,
+      "TwentyTwenty": 291082,
+      "Change": 0.53
+    },
+    "LandArea": {
+      "SquareMiles": 97.7,
+      "SquareKilometers": 253
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2979,
+      "SquareKilometers": 1150
+    },
+    "Location": {
+      "North": 40.81,
+      "West": 96.68
+    }
+  },
+  {
+    "Rank": 71,
+    "City": "Durham",
+    "State": "North Carolina",
+    "Population": {
+      "TwentyTwentyTwo": 291928,
+      "TwentyTwenty": 283506,
+      "Change": 2.97
+    },
+    "LandArea": {
+      "SquareMiles": 112.8,
+      "SquareKilometers": 292.2
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2513,
+      "SquareKilometers": 970
+    },
+    "Location": {
+      "North": 35.98,
+      "West": 78.9
+    }
+  },
+  {
+    "Rank": 72,
+    "City": "Plano",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 289547,
+      "TwentyTwenty": 285494,
+      "Change": 1.42
+    },
+    "LandArea": {
+      "SquareMiles": 71.7,
+      "SquareKilometers": 185.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3982,
+      "SquareKilometers": 1537
+    },
+    "Location": {
+      "North": 33.05,
+      "West": 96.75
+    }
+  },
+  {
+    "Rank": 73,
+    "City": "Anchorage",
+    "State": "Alaska",
+    "Population": {
+      "TwentyTwentyTwo": 287145,
+      "TwentyTwenty": 291247,
+      "Change": -1.41
+    },
+    "LandArea": {
+      "SquareMiles": 1706.8,
+      "SquareKilometers": 4420.6
+    },
+    "PopulationDensity": {
+      "SquareMiles": 171,
+      "SquareKilometers": 66
+    },
+    "Location": {
+      "North": 61.17,
+      "West": 149.28
+    }
+  },
+  {
+    "Rank": 74,
+    "City": "Jersey City",
+    "State": "New Jersey",
+    "Population": {
+      "TwentyTwentyTwo": 286670,
+      "TwentyTwenty": 292449,
+      "Change": -1.98
+    },
+    "LandArea": {
+      "SquareMiles": 14.7,
+      "SquareKilometers": 38.1
+    },
+    "PopulationDensity": {
+      "SquareMiles": 19894,
+      "SquareKilometers": 7681
+    },
+    "Location": {
+      "North": 40.71,
+      "West": 74.06
+    }
+  },
+  {
+    "Rank": 75,
+    "City": "St. Louis",
+    "State": "Missouri",
+    "Population": {
+      "TwentyTwentyTwo": 286578,
+      "TwentyTwenty": 301578,
+      "Change": -4.97
+    },
+    "LandArea": {
+      "SquareMiles": 61.7,
+      "SquareKilometers": 159.8
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4888,
+      "SquareKilometers": 1887
+    },
+    "Location": {
+      "North": 38.64,
+      "West": 90.24
+    }
+  },
+  {
+    "Rank": 76,
+    "City": "Chandler",
+    "State": "Arizona",
+    "Population": {
+      "TwentyTwentyTwo": 280711,
+      "TwentyTwenty": 275987,
+      "Change": 1.71
+    },
+    "LandArea": {
+      "SquareMiles": 65.3,
+      "SquareKilometers": 169.1
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4226,
+      "SquareKilometers": 1632
+    },
+    "Location": {
+      "North": 33.28,
+      "West": 111.85
+    }
+  },
+  {
+    "Rank": 77,
+    "City": "North Las Vegas",
+    "State": "Nevada",
+    "Population": {
+      "TwentyTwentyTwo": 280543,
+      "TwentyTwenty": 262527,
+      "Change": 6.86
+    },
+    "LandArea": {
+      "SquareMiles": 101.3,
+      "SquareKilometers": 262.4
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2592,
+      "SquareKilometers": 1001
+    },
+    "Location": {
+      "North": 36.28,
+      "West": 115.09
+    }
+  },
+  {
+    "Rank": 78,
+    "City": "Chula Vista",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 279170,
+      "TwentyTwenty": 275487,
+      "Change": 1.34
+    },
+    "LandArea": {
+      "SquareMiles": 49.6,
+      "SquareKilometers": 128.5
+    },
+    "PopulationDensity": {
+      "SquareMiles": 5554,
+      "SquareKilometers": 2144
+    },
+    "Location": {
+      "North": 32.63,
+      "West": 117.02
+    }
+  },
+  {
+    "Rank": 79,
+    "City": "Buffalo",
+    "State": "New York",
+    "Population": {
+      "TwentyTwentyTwo": 276486,
+      "TwentyTwenty": 278349,
+      "Change": -0.67
+    },
+    "LandArea": {
+      "SquareMiles": 40.4,
+      "SquareKilometers": 104.6
+    },
+    "PopulationDensity": {
+      "SquareMiles": 6890,
+      "SquareKilometers": 2660
+    },
+    "Location": {
+      "North": 42.89,
+      "West": 78.86
+    }
+  },
+  {
+    "Rank": 80,
+    "City": "Gilbert",
+    "State": "Arizona",
+    "Population": {
+      "TwentyTwentyTwo": 275346,
+      "TwentyTwenty": 267918,
+      "Change": 2.77
+    },
+    "LandArea": {
+      "SquareMiles": 68.6,
+      "SquareKilometers": 177.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3906,
+      "SquareKilometers": 1508
+    },
+    "Location": {
+      "North": 33.31,
+      "West": 111.74
+    }
+  },
+  {
+    "Rank": 81,
+    "City": "Reno",
+    "State": "Nevada",
+    "Population": {
+      "TwentyTwentyTwo": 273448,
+      "TwentyTwenty": 264165,
+      "Change": 3.51
+    },
+    "LandArea": {
+      "SquareMiles": 108.8,
+      "SquareKilometers": 281.8
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2428,
+      "SquareKilometers": 937
+    },
+    "Location": {
+      "North": 39.55,
+      "West": 119.85
+    }
+  },
+  {
+    "Rank": 82,
+    "City": "Madison",
+    "State": "Wisconsin",
+    "Population": {
+      "TwentyTwentyTwo": 272903,
+      "TwentyTwenty": 269840,
+      "Change": 1.14
+    },
+    "LandArea": {
+      "SquareMiles": 79.6,
+      "SquareKilometers": 206.2
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3390,
+      "SquareKilometers": 1310
+    },
+    "Location": {
+      "North": 43.09,
+      "West": 89.43
+    }
+  },
+  {
+    "Rank": 83,
+    "City": "Fort Wayne",
+    "State": "Indiana",
+    "Population": {
+      "TwentyTwentyTwo": 267927,
+      "TwentyTwenty": 263886,
+      "Change": 1.53
+    },
+    "LandArea": {
+      "SquareMiles": 110.7,
+      "SquareKilometers": 286.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2384,
+      "SquareKilometers": 920
+    },
+    "Location": {
+      "North": 41.09,
+      "West": 85.14
+    }
+  },
+  {
+    "Rank": 84,
+    "City": "Toledo",
+    "State": "Ohio",
+    "Population": {
+      "TwentyTwentyTwo": 266301,
+      "TwentyTwenty": 270871,
+      "Change": -1.69
+    },
+    "LandArea": {
+      "SquareMiles": 80.5,
+      "SquareKilometers": 208.5
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3365,
+      "SquareKilometers": 1299
+    },
+    "Location": {
+      "North": 41.66,
+      "West": 83.58
+    }
+  },
+  {
+    "Rank": 85,
+    "City": "Lubbock",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 263930,
+      "TwentyTwenty": 257141,
+      "Change": 2.64
+    },
+    "LandArea": {
+      "SquareMiles": 134.6,
+      "SquareKilometers": 348.6
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1910,
+      "SquareKilometers": 740
+    },
+    "Location": {
+      "North": 33.57,
+      "West": 101.89
+    }
+  },
+  {
+    "Rank": 86,
+    "City": "St. Petersburg",
+    "State": "Florida",
+    "Population": {
+      "TwentyTwentyTwo": 261256,
+      "TwentyTwenty": 258308,
+      "Change": 1.14
+    },
+    "LandArea": {
+      "SquareMiles": 61.8,
+      "SquareKilometers": 160.1
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4180,
+      "SquareKilometers": 1610
+    },
+    "Location": {
+      "North": 27.77,
+      "West": 82.64
+    }
+  },
+  {
+    "Rank": 87,
+    "City": "Laredo",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 256187,
+      "TwentyTwenty": 255205,
+      "Change": 0.38
+    },
+    "LandArea": {
+      "SquareMiles": 106.5,
+      "SquareKilometers": 275.8
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2396,
+      "SquareKilometers": 925
+    },
+    "Location": {
+      "North": 27.56,
+      "West": 99.49
+    }
+  },
+  {
+    "Rank": 88,
+    "City": "Irving",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 254715,
+      "TwentyTwenty": 256684,
+      "Change": -0.77
+    },
+    "LandArea": {
+      "SquareMiles": 67,
+      "SquareKilometers": 173.5
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3831,
+      "SquareKilometers": 1479
+    },
+    "Location": {
+      "North": 32.86,
+      "West": 96.97
+    }
+  },
+  {
+    "Rank": 89,
+    "City": "Chesapeake",
+    "State": "Virginia",
+    "Population": {
+      "TwentyTwentyTwo": 252488,
+      "TwentyTwenty": 249422,
+      "Change": 1.23
+    },
+    "LandArea": {
+      "SquareMiles": 338.5,
+      "SquareKilometers": 876.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 737,
+      "SquareKilometers": 285
+    },
+    "Location": {
+      "North": 36.68,
+      "West": 76.3
+    }
+  },
+  {
+    "Rank": 90,
+    "City": "Glendale",
+    "State": "Arizona",
+    "Population": {
+      "TwentyTwentyTwo": 252136,
+      "TwentyTwenty": 248325,
+      "Change": 1.53
+    },
+    "LandArea": {
+      "SquareMiles": 61.6,
+      "SquareKilometers": 159.5
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4031,
+      "SquareKilometers": 1556
+    },
+    "Location": {
+      "North": 33.53,
+      "West": 112.19
+    }
+  },
+  {
+    "Rank": 91,
+    "City": "Winston-Salem",
+    "State": "North Carolina",
+    "Population": {
+      "TwentyTwentyTwo": 251350,
+      "TwentyTwenty": 249545,
+      "Change": 0.72
+    },
+    "LandArea": {
+      "SquareMiles": 132.7,
+      "SquareKilometers": 343.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1881,
+      "SquareKilometers": 726
+    },
+    "Location": {
+      "North": 36.1,
+      "West": 80.26
+    }
+  },
+  {
+    "Rank": 92,
+    "City": "Scottsdale",
+    "State": "Arizona",
+    "Population": {
+      "TwentyTwentyTwo": 243050,
+      "TwentyTwenty": 241361,
+      "Change": 0.7
+    },
+    "LandArea": {
+      "SquareMiles": 184,
+      "SquareKilometers": 476.6
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1312,
+      "SquareKilometers": 507
+    },
+    "Location": {
+      "North": 33.68,
+      "West": 111.86
+    }
+  },
+  {
+    "Rank": 93,
+    "City": "Garland",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 240854,
+      "TwentyTwenty": 246018,
+      "Change": -2.1
+    },
+    "LandArea": {
+      "SquareMiles": 57.1,
+      "SquareKilometers": 147.9
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4309,
+      "SquareKilometers": 1664
+    },
+    "Location": {
+      "North": 32.91,
+      "West": 96.63
+    }
+  },
+  {
+    "Rank": 94,
+    "City": "Boise",
+    "State": "Idaho",
+    "Population": {
+      "TwentyTwentyTwo": 236634,
+      "TwentyTwenty": 235684,
+      "Change": 0.4
+    },
+    "LandArea": {
+      "SquareMiles": 84,
+      "SquareKilometers": 217.6
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2806,
+      "SquareKilometers": 1083
+    },
+    "Location": {
+      "North": 43.6,
+      "West": 116.23
+    }
+  },
+  {
+    "Rank": 95,
+    "City": "Norfolk",
+    "State": "Virginia",
+    "Population": {
+      "TwentyTwentyTwo": 232995,
+      "TwentyTwenty": 238005,
+      "Change": -2.1
+    },
+    "LandArea": {
+      "SquareMiles": 53.3,
+      "SquareKilometers": 138
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4465,
+      "SquareKilometers": 1724
+    },
+    "Location": {
+      "North": 36.92,
+      "West": 76.24
+    }
+  },
+  {
+    "Rank": 96,
+    "City": "Port St. Lucie",
+    "State": "Florida",
+    "Population": {
+      "TwentyTwentyTwo": 231790,
+      "TwentyTwenty": 204851,
+      "Change": 13.15
+    },
+    "LandArea": {
+      "SquareMiles": 119.2,
+      "SquareKilometers": 308.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1719,
+      "SquareKilometers": 664
+    },
+    "Location": {
+      "North": 27.28,
+      "West": 80.39
+    }
+  },
+  {
+    "Rank": 97,
+    "City": "Spokane",
+    "State": "Washington",
+    "Population": {
+      "TwentyTwentyTwo": 230160,
+      "TwentyTwenty": 228989,
+      "Change": 0.51
+    },
+    "LandArea": {
+      "SquareMiles": 68.8,
+      "SquareKilometers": 178.2
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3328,
+      "SquareKilometers": 1285
+    },
+    "Location": {
+      "North": 47.67,
+      "West": 117.43
+    }
+  },
+  {
+    "Rank": 98,
+    "City": "Richmond",
+    "State": "Virginia",
+    "Population": {
+      "TwentyTwentyTwo": 229395,
+      "TwentyTwenty": 226610,
+      "Change": 1.23
+    },
+    "LandArea": {
+      "SquareMiles": 59.9,
+      "SquareKilometers": 155.1
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3783,
+      "SquareKilometers": 1461
+    },
+    "Location": {
+      "North": 37.53,
+      "West": 77.48
+    }
+  },
+  {
+    "Rank": 99,
+    "City": "Fremont",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 223871,
+      "TwentyTwenty": 230504,
+      "Change": -2.88
+    },
+    "LandArea": {
+      "SquareMiles": 78.3,
+      "SquareKilometers": 202.8
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2944,
+      "SquareKilometers": 1137
+    },
+    "Location": {
+      "North": 37.49,
+      "West": 121.94
+    }
+  },
+  {
+    "Rank": 100,
+    "City": "Huntsville",
+    "State": "Alabama",
+    "Population": {
+      "TwentyTwentyTwo": 221933,
+      "TwentyTwenty": 215006,
+      "Change": 3.22
+    },
+    "LandArea": {
+      "SquareMiles": 218.1,
+      "SquareKilometers": 564.9
+    },
+    "PopulationDensity": {
+      "SquareMiles": 986,
+      "SquareKilometers": 381
+    },
+    "Location": {
+      "North": 34.78,
+      "West": 86.53
+    }
+  },
+  {
+    "Rank": 101,
+    "City": "Tacoma",
+    "State": "Washington",
+    "Population": {
+      "TwentyTwentyTwo": 221776,
+      "TwentyTwenty": 219346,
+      "Change": 1.11
+    },
+    "LandArea": {
+      "SquareMiles": 49.7,
+      "SquareKilometers": 128.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4413,
+      "SquareKilometers": 1704
+    },
+    "Location": {
+      "North": 47.25,
+      "West": 122.46
+    }
+  },
+  {
+    "Rank": 102,
+    "City": "Baton Rouge",
+    "State": "Louisiana",
+    "Population": {
+      "TwentyTwentyTwo": 221453,
+      "TwentyTwenty": 227470,
+      "Change": -2.65
+    },
+    "LandArea": {
+      "SquareMiles": 86.3,
+      "SquareKilometers": 223.5
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2636,
+      "SquareKilometers": 1018
+    },
+    "Location": {
+      "North": 30.44,
+      "West": 91.13
+    }
+  },
+  {
+    "Rank": 103,
+    "City": "Santa Clarita",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 221345,
+      "TwentyTwenty": 228673,
+      "Change": -3.2
+    },
+    "LandArea": {
+      "SquareMiles": 70.8,
+      "SquareKilometers": 183.4
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3230,
+      "SquareKilometers": 1250
+    },
+    "Location": {
+      "North": 34.41,
+      "West": 118.49
+    }
+  },
+  {
+    "Rank": 104,
+    "City": "San Bernardino",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 220328,
+      "TwentyTwenty": 222101,
+      "Change": -0.8
+    },
+    "LandArea": {
+      "SquareMiles": 62.1,
+      "SquareKilometers": 160.8
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3577,
+      "SquareKilometers": 1381
+    },
+    "Location": {
+      "North": 34.14,
+      "West": 117.29
+    }
+  },
+  {
+    "Rank": 105,
+    "City": "Hialeah",
+    "State": "Florida",
+    "Population": {
+      "TwentyTwentyTwo": 220292,
+      "TwentyTwenty": 223109,
+      "Change": -1.26
+    },
+    "LandArea": {
+      "SquareMiles": 21.6,
+      "SquareKilometers": 55.9
+    },
+    "PopulationDensity": {
+      "SquareMiles": 10329,
+      "SquareKilometers": 3988
+    },
+    "Location": {
+      "North": 25.87,
+      "West": 80.3
+    }
+  },
+  {
+    "Rank": 106,
+    "City": "Frisco",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 219587,
+      "TwentyTwenty": 200509,
+      "Change": 9.51
+    },
+    "LandArea": {
+      "SquareMiles": 68.6,
+      "SquareKilometers": 177.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2923,
+      "SquareKilometers": 1129
+    },
+    "Location": {
+      "North": 33.16,
+      "West": 96.82
+    }
+  },
+  {
+    "Rank": 107,
+    "City": "Modesto",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 218069,
+      "TwentyTwenty": 218464,
+      "Change": -0.18
+    },
+    "LandArea": {
+      "SquareMiles": 43,
+      "SquareKilometers": 111.4
+    },
+    "PopulationDensity": {
+      "SquareMiles": 5081,
+      "SquareKilometers": 1962
+    },
+    "Location": {
+      "North": 37.64,
+      "West": 121
+    }
+  },
+  {
+    "Rank": 108,
+    "City": "Cape Coral",
+    "State": "Florida",
+    "Population": {
+      "TwentyTwentyTwo": 216992,
+      "TwentyTwenty": 194016,
+      "Change": 11.84
+    },
+    "LandArea": {
+      "SquareMiles": 106,
+      "SquareKilometers": 274.5
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1830,
+      "SquareKilometers": 710
+    },
+    "Location": {
+      "North": 26.65,
+      "West": 81.99
+    }
+  },
+  {
+    "Rank": 109,
+    "City": "Fontana",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 212475,
+      "TwentyTwenty": 208393,
+      "Change": 1.96
+    },
+    "LandArea": {
+      "SquareMiles": 43.1,
+      "SquareKilometers": 111.6
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4835,
+      "SquareKilometers": 1867
+    },
+    "Location": {
+      "North": 34.11,
+      "West": 117.46
+    }
+  },
+  {
+    "Rank": 110,
+    "City": "Moreno Valley",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 211924,
+      "TwentyTwenty": 208634,
+      "Change": 1.58
+    },
+    "LandArea": {
+      "SquareMiles": 51.3,
+      "SquareKilometers": 132.9
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4067,
+      "SquareKilometers": 1570
+    },
+    "Location": {
+      "North": 33.92,
+      "West": 117.21
+    }
+  },
+  {
+    "Rank": 111,
+    "City": "Des Moines",
+    "State": "Iowa",
+    "Population": {
+      "TwentyTwentyTwo": 211034,
+      "TwentyTwenty": 214133,
+      "Change": -1.45
+    },
+    "LandArea": {
+      "SquareMiles": 88.2,
+      "SquareKilometers": 228.4
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2428,
+      "SquareKilometers": 937
+    },
+    "Location": {
+      "North": 41.57,
+      "West": 93.61
+    }
+  },
+  {
+    "Rank": 112,
+    "City": "Rochester",
+    "State": "New York",
+    "Population": {
+      "TwentyTwentyTwo": 209352,
+      "TwentyTwenty": 211328,
+      "Change": -0.94
+    },
+    "LandArea": {
+      "SquareMiles": 35.8,
+      "SquareKilometers": 92.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 5903,
+      "SquareKilometers": 2279
+    },
+    "Location": {
+      "North": 43.17,
+      "West": 77.62
+    }
+  },
+  {
+    "Rank": 113,
+    "City": "Fayetteville",
+    "State": "North Carolina",
+    "Population": {
+      "TwentyTwentyTwo": 208873,
+      "TwentyTwenty": 208501,
+      "Change": 0.18
+    },
+    "LandArea": {
+      "SquareMiles": 148.3,
+      "SquareKilometers": 384.1
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1406,
+      "SquareKilometers": 543
+    },
+    "Location": {
+      "North": 35.08,
+      "West": 78.97
+    }
+  },
+  {
+    "Rank": 114,
+    "City": "Yonkers",
+    "State": "New York",
+    "Population": {
+      "TwentyTwentyTwo": 208121,
+      "TwentyTwenty": 211569,
+      "Change": -1.63
+    },
+    "LandArea": {
+      "SquareMiles": 18,
+      "SquareKilometers": 46.6
+    },
+    "PopulationDensity": {
+      "SquareMiles": 11754,
+      "SquareKilometers": 4538
+    },
+    "Location": {
+      "North": 40.95,
+      "West": 73.87
+    }
+  },
+  {
+    "Rank": 115,
+    "City": "McKinney",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 207507,
+      "TwentyTwenty": 195308,
+      "Change": 6.25
+    },
+    "LandArea": {
+      "SquareMiles": 67,
+      "SquareKilometers": 173.5
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2915,
+      "SquareKilometers": 1125
+    },
+    "Location": {
+      "North": 33.2,
+      "West": 96.66
+    }
+  },
+  {
+    "Rank": 116,
+    "City": "Worcester",
+    "State": "Massachusetts",
+    "Population": {
+      "TwentyTwentyTwo": 205319,
+      "TwentyTwenty": 206518,
+      "Change": -0.58
+    },
+    "LandArea": {
+      "SquareMiles": 37.4,
+      "SquareKilometers": 96.9
+    },
+    "PopulationDensity": {
+      "SquareMiles": 5522,
+      "SquareKilometers": 2132
+    },
+    "Location": {
+      "North": 42.27,
+      "West": 71.81
+    }
+  },
+  {
+    "Rank": 117,
+    "City": "Salt Lake City",
+    "State": "Utah",
+    "Population": {
+      "TwentyTwentyTwo": 204657,
+      "TwentyTwenty": 199723,
+      "Change": 2.47
+    },
+    "LandArea": {
+      "SquareMiles": 110.3,
+      "SquareKilometers": 285.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1811,
+      "SquareKilometers": 699
+    },
+    "Location": {
+      "North": 40.78,
+      "West": 111.93
+    }
+  },
+  {
+    "Rank": 118,
+    "City": "Little Rock",
+    "State": "Arkansas",
+    "Population": {
+      "TwentyTwentyTwo": 202864,
+      "TwentyTwenty": 202591,
+      "Change": 0.13
+    },
+    "LandArea": {
+      "SquareMiles": 120,
+      "SquareKilometers": 310.8
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1688,
+      "SquareKilometers": 652
+    },
+    "Location": {
+      "North": 34.72,
+      "West": 92.36
+    }
+  },
+  {
+    "Rank": 119,
+    "City": "Columbus",
+    "State": "Georgia",
+    "Population": {
+      "TwentyTwentyTwo": 202616,
+      "TwentyTwenty": 206922,
+      "Change": -2.08
+    },
+    "LandArea": {
+      "SquareMiles": 216.5,
+      "SquareKilometers": 560.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 956,
+      "SquareKilometers": 369
+    },
+    "Location": {
+      "North": 32.51,
+      "West": 84.87
+    }
+  },
+  {
+    "Rank": 120,
+    "City": "Augusta",
+    "State": "Georgia",
+    "Population": {
+      "TwentyTwentyTwo": 202096,
+      "TwentyTwenty": 202081,
+      "Change": 0.01
+    },
+    "LandArea": {
+      "SquareMiles": 302.3,
+      "SquareKilometers": 783
+    },
+    "PopulationDensity": {
+      "SquareMiles": 668,
+      "SquareKilometers": 258
+    },
+    "Location": {
+      "North": 33.37,
+      "West": 82.07
+    }
+  },
+  {
+    "Rank": 121,
+    "City": "Sioux Falls",
+    "State": "South Dakota",
+    "Population": {
+      "TwentyTwentyTwo": 202078,
+      "TwentyTwenty": 192517,
+      "Change": 4.97
+    },
+    "LandArea": {
+      "SquareMiles": 79.1,
+      "SquareKilometers": 204.9
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2434,
+      "SquareKilometers": 940
+    },
+    "Location": {
+      "North": 43.54,
+      "West": 96.73
+    }
+  },
+  {
+    "Rank": 122,
+    "City": "Grand Prairie",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 201843,
+      "TwentyTwenty": 196100,
+      "Change": 2.93
+    },
+    "LandArea": {
+      "SquareMiles": 72.6,
+      "SquareKilometers": 188
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2701,
+      "SquareKilometers": 1043
+    },
+    "Location": {
+      "North": 32.69,
+      "West": 97.02
+    }
+  },
+  {
+    "Rank": 123,
+    "City": "Tallahassee",
+    "State": "Florida",
+    "Population": {
+      "TwentyTwentyTwo": 201731,
+      "TwentyTwenty": 196169,
+      "Change": 2.84
+    },
+    "LandArea": {
+      "SquareMiles": 100.9,
+      "SquareKilometers": 261.3
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1944,
+      "SquareKilometers": 751
+    },
+    "Location": {
+      "North": 30.46,
+      "West": 84.25
+    }
+  },
+  {
+    "Rank": 124,
+    "City": "Amarillo",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 201291,
+      "TwentyTwenty": 200393,
+      "Change": 0.45
+    },
+    "LandArea": {
+      "SquareMiles": 102.3,
+      "SquareKilometers": 265
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1959,
+      "SquareKilometers": 756
+    },
+    "Location": {
+      "North": 35.2,
+      "West": 101.83
+    }
+  },
+  {
+    "Rank": 125,
+    "City": "Oxnard",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 200415,
+      "TwentyTwenty": 202063,
+      "Change": -0.82
+    },
+    "LandArea": {
+      "SquareMiles": 26.5,
+      "SquareKilometers": 68.6
+    },
+    "PopulationDensity": {
+      "SquareMiles": 7625,
+      "SquareKilometers": 2944
+    },
+    "Location": {
+      "North": 34.2,
+      "West": 119.21
+    }
+  },
+  {
+    "Rank": 126,
+    "City": "Peoria",
+    "State": "Arizona",
+    "Population": {
+      "TwentyTwentyTwo": 197866,
+      "TwentyTwenty": 190985,
+      "Change": 3.6
+    },
+    "LandArea": {
+      "SquareMiles": 176.1,
+      "SquareKilometers": 456.1
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1085,
+      "SquareKilometers": 419
+    },
+    "Location": {
+      "North": 33.79,
+      "West": 112.31
+    }
+  },
+  {
+    "Rank": 127,
+    "City": "Overland Park",
+    "State": "Kansas",
+    "Population": {
+      "TwentyTwentyTwo": 197726,
+      "TwentyTwenty": 197238,
+      "Change": 0.25
+    },
+    "LandArea": {
+      "SquareMiles": 75.2,
+      "SquareKilometers": 194.8
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2623,
+      "SquareKilometers": 1013
+    },
+    "Location": {
+      "North": 38.89,
+      "West": 94.69
+    }
+  },
+  {
+    "Rank": 128,
+    "City": "Montgomery",
+    "State": "Alabama",
+    "Population": {
+      "TwentyTwentyTwo": 196986,
+      "TwentyTwenty": 200603,
+      "Change": -1.8
+    },
+    "LandArea": {
+      "SquareMiles": 159.9,
+      "SquareKilometers": 414.1
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1255,
+      "SquareKilometers": 485
+    },
+    "Location": {
+      "North": 32.35,
+      "West": 86.27
+    }
+  },
+  {
+    "Rank": 129,
+    "City": "Birmingham",
+    "State": "Alabama",
+    "Population": {
+      "TwentyTwentyTwo": 196910,
+      "TwentyTwenty": 200733,
+      "Change": -1.9
+    },
+    "LandArea": {
+      "SquareMiles": 147,
+      "SquareKilometers": 380.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1366,
+      "SquareKilometers": 527
+    },
+    "Location": {
+      "North": 33.53,
+      "West": 86.8
+    }
+  },
+  {
+    "Rank": 130,
+    "City": "Grand Rapids",
+    "State": "Michigan",
+    "Population": {
+      "TwentyTwentyTwo": 196908,
+      "TwentyTwenty": 198917,
+      "Change": -1.01
+    },
+    "LandArea": {
+      "SquareMiles": 44.8,
+      "SquareKilometers": 116
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4440,
+      "SquareKilometers": 1710
+    },
+    "Location": {
+      "North": 42.96,
+      "West": 85.66
+    }
+  },
+  {
+    "Rank": 131,
+    "City": "Knoxville",
+    "State": "Tennessee",
+    "Population": {
+      "TwentyTwentyTwo": 195889,
+      "TwentyTwenty": 190740,
+      "Change": 2.7
+    },
+    "LandArea": {
+      "SquareMiles": 98.7,
+      "SquareKilometers": 255.6
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1933,
+      "SquareKilometers": 746
+    },
+    "Location": {
+      "North": 35.97,
+      "West": 83.95
+    }
+  },
+  {
+    "Rank": 132,
+    "City": "Vancouver",
+    "State": "Washington",
+    "Population": {
+      "TwentyTwentyTwo": 194512,
+      "TwentyTwenty": 190915,
+      "Change": 1.88
+    },
+    "LandArea": {
+      "SquareMiles": 48.7,
+      "SquareKilometers": 126.1
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3920,
+      "SquareKilometers": 1510
+    },
+    "Location": {
+      "North": 45.64,
+      "West": 122.6
+    }
+  },
+  {
+    "Rank": 133,
+    "City": "Huntington Beach",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 194310,
+      "TwentyTwenty": 198711,
+      "Change": -2.21
+    },
+    "LandArea": {
+      "SquareMiles": 27,
+      "SquareKilometers": 69.9
+    },
+    "PopulationDensity": {
+      "SquareMiles": 7360,
+      "SquareKilometers": 2840
+    },
+    "Location": {
+      "North": 33.7,
+      "West": 118
+    }
+  },
+  {
+    "Rank": 134,
+    "City": "Providence",
+    "State": "Rhode Island",
+    "Population": {
+      "TwentyTwentyTwo": 189563,
+      "TwentyTwenty": 190934,
+      "Change": -0.72
+    },
+    "LandArea": {
+      "SquareMiles": 18.4,
+      "SquareKilometers": 47.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 10377,
+      "SquareKilometers": 4007
+    },
+    "Location": {
+      "North": 41.82,
+      "West": 71.42
+    }
+  },
+  {
+    "Rank": 135,
+    "City": "Brownsville",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 189382,
+      "TwentyTwenty": 186738,
+      "Change": 1.42
+    },
+    "LandArea": {
+      "SquareMiles": 131.5,
+      "SquareKilometers": 340.6
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1420,
+      "SquareKilometers": 550
+    },
+    "Location": {
+      "North": 26,
+      "West": 97.45
+    }
+  },
+  {
+    "Rank": 136,
+    "City": "Glendale",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 189221,
+      "TwentyTwenty": 196543,
+      "Change": -3.73
+    },
+    "LandArea": {
+      "SquareMiles": 30.5,
+      "SquareKilometers": 79
+    },
+    "PopulationDensity": {
+      "SquareMiles": 6444,
+      "SquareKilometers": 2488
+    },
+    "Location": {
+      "North": 34.18,
+      "West": 118.25
+    }
+  },
+  {
+    "Rank": 137,
+    "City": "Akron",
+    "State": "Ohio",
+    "Population": {
+      "TwentyTwentyTwo": 188509,
+      "TwentyTwenty": 190469,
+      "Change": -1.03
+    },
+    "LandArea": {
+      "SquareMiles": 61.9,
+      "SquareKilometers": 160.3
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3077,
+      "SquareKilometers": 1188
+    },
+    "Location": {
+      "North": 41.08,
+      "West": 81.52
+    }
+  },
+  {
+    "Rank": 138,
+    "City": "Tempe",
+    "State": "Arizona",
+    "Population": {
+      "TwentyTwentyTwo": 185950,
+      "TwentyTwenty": 180587,
+      "Change": 2.97
+    },
+    "LandArea": {
+      "SquareMiles": 39.9,
+      "SquareKilometers": 103.3
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4526,
+      "SquareKilometers": 1747
+    },
+    "Location": {
+      "North": 33.39,
+      "West": 111.93
+    }
+  },
+  {
+    "Rank": 139,
+    "City": "Newport News",
+    "State": "Virginia",
+    "Population": {
+      "TwentyTwentyTwo": 184306,
+      "TwentyTwenty": 186247,
+      "Change": -1.04
+    },
+    "LandArea": {
+      "SquareMiles": 69,
+      "SquareKilometers": 178.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2699,
+      "SquareKilometers": 1042
+    },
+    "Location": {
+      "North": 37.08,
+      "West": 76.52
+    }
+  },
+  {
+    "Rank": 140,
+    "City": "Chattanooga",
+    "State": "Tennessee",
+    "Population": {
+      "TwentyTwentyTwo": 184086,
+      "TwentyTwenty": 181099,
+      "Change": 1.65
+    },
+    "LandArea": {
+      "SquareMiles": 142.4,
+      "SquareKilometers": 368.8
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1272,
+      "SquareKilometers": 491
+    },
+    "Location": {
+      "North": 35.07,
+      "West": 85.25
+    }
+  },
+  {
+    "Rank": 141,
+    "City": "Mobile",
+    "State": "Alabama",
+    "Population": {
+      "TwentyTwentyTwo": 183289,
+      "TwentyTwenty": 187041,
+      "Change": -2.01
+    },
+    "LandArea": {
+      "SquareMiles": 139.5,
+      "SquareKilometers": 361.3
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1341,
+      "SquareKilometers": 518
+    },
+    "Location": {
+      "North": 30.67,
+      "West": 88.1
+    }
+  },
+  {
+    "Rank": 142,
+    "City": "Fort Lauderdale",
+    "State": "Florida",
+    "Population": {
+      "TwentyTwentyTwo": 183146,
+      "TwentyTwenty": 182760,
+      "Change": 0.21
+    },
+    "LandArea": {
+      "SquareMiles": 34.6,
+      "SquareKilometers": 89.6
+    },
+    "PopulationDensity": {
+      "SquareMiles": 5282,
+      "SquareKilometers": 2039
+    },
+    "Location": {
+      "North": 26.14,
+      "West": 80.15
+    }
+  },
+  {
+    "Rank": 143,
+    "City": "Cary",
+    "State": "North Carolina",
+    "Population": {
+      "TwentyTwentyTwo": 180388,
+      "TwentyTwenty": 174721,
+      "Change": 3.24
+    },
+    "LandArea": {
+      "SquareMiles": 59.2,
+      "SquareKilometers": 153.3
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2951,
+      "SquareKilometers": 1139
+    },
+    "Location": {
+      "North": 35.78,
+      "West": 78.82
+    }
+  },
+  {
+    "Rank": 144,
+    "City": "Shreveport",
+    "State": "Louisiana",
+    "Population": {
+      "TwentyTwentyTwo": 180153,
+      "TwentyTwenty": 187593,
+      "Change": -3.97
+    },
+    "LandArea": {
+      "SquareMiles": 107.8,
+      "SquareKilometers": 279.2
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1740,
+      "SquareKilometers": 670
+    },
+    "Location": {
+      "North": 32.47,
+      "West": 93.79
+    }
+  },
+  {
+    "Rank": 145,
+    "City": "Ontario",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 179061,
+      "TwentyTwenty": 175265,
+      "Change": 2.17
+    },
+    "LandArea": {
+      "SquareMiles": 50,
+      "SquareKilometers": 129.5
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3505,
+      "SquareKilometers": 1353
+    },
+    "Location": {
+      "North": 34.04,
+      "West": 117.6
+    }
+  },
+  {
+    "Rank": 146,
+    "City": "Eugene",
+    "State": "Oregon",
+    "Population": {
+      "TwentyTwentyTwo": 177923,
+      "TwentyTwenty": 176654,
+      "Change": 0.72
+    },
+    "LandArea": {
+      "SquareMiles": 44.2,
+      "SquareKilometers": 114.5
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3997,
+      "SquareKilometers": 1543
+    },
+    "Location": {
+      "North": 44.06,
+      "West": 123.12
+    }
+  },
+  {
+    "Rank": 147,
+    "City": "Aurora",
+    "State": "Illinois",
+    "Population": {
+      "TwentyTwentyTwo": 177866,
+      "TwentyTwenty": 180542,
+      "Change": -1.48
+    },
+    "LandArea": {
+      "SquareMiles": 45,
+      "SquareKilometers": 116.5
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4012,
+      "SquareKilometers": 1549
+    },
+    "Location": {
+      "North": 41.76,
+      "West": 88.29
+    }
+  },
+  {
+    "Rank": 148,
+    "City": "Elk Grove",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 177558,
+      "TwentyTwenty": 176124,
+      "Change": 0.81
+    },
+    "LandArea": {
+      "SquareMiles": 42,
+      "SquareKilometers": 108.8
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4193,
+      "SquareKilometers": 1619
+    },
+    "Location": {
+      "North": 38.41,
+      "West": 121.38
+    }
+  },
+  {
+    "Rank": 149,
+    "City": "Salem",
+    "State": "Oregon",
+    "Population": {
+      "TwentyTwentyTwo": 177487,
+      "TwentyTwenty": 175535,
+      "Change": 1.11
+    },
+    "LandArea": {
+      "SquareMiles": 48.8,
+      "SquareKilometers": 126.4
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3597,
+      "SquareKilometers": 1389
+    },
+    "Location": {
+      "North": 44.92,
+      "West": 123.02
+    }
+  },
+  {
+    "Rank": 150,
+    "City": "Santa Rosa",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 177181,
+      "TwentyTwenty": 178127,
+      "Change": -0.53
+    },
+    "LandArea": {
+      "SquareMiles": 42.5,
+      "SquareKilometers": 110.1
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4191,
+      "SquareKilometers": 1618
+    },
+    "Location": {
+      "North": 38.45,
+      "West": 122.71
+    }
+  },
+  {
+    "Rank": 151,
+    "City": "Clarksville",
+    "State": "Tennessee",
+    "Population": {
+      "TwentyTwentyTwo": 176974,
+      "TwentyTwenty": 166722,
+      "Change": 6.15
+    },
+    "LandArea": {
+      "SquareMiles": 99.4,
+      "SquareKilometers": 257.4
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1677,
+      "SquareKilometers": 647
+    },
+    "Location": {
+      "North": 36.57,
+      "West": 87.35
+    }
+  },
+  {
+    "Rank": 152,
+    "City": "Rancho Cucamonga",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 176336,
+      "TwentyTwenty": 174453,
+      "Change": 1.08
+    },
+    "LandArea": {
+      "SquareMiles": 40.1,
+      "SquareKilometers": 103.9
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4350,
+      "SquareKilometers": 1680
+    },
+    "Location": {
+      "North": 34.12,
+      "West": 117.56
+    }
+  },
+  {
+    "Rank": 153,
+    "City": "Oceanside",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 172199,
+      "TwentyTwenty": 174068,
+      "Change": -1.07
+    },
+    "LandArea": {
+      "SquareMiles": 41.3,
+      "SquareKilometers": 107
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4215,
+      "SquareKilometers": 1627
+    },
+    "Location": {
+      "North": 33.22,
+      "West": 117.31
+    }
+  },
+  {
+    "Rank": 154,
+    "City": "Springfield",
+    "State": "Missouri",
+    "Population": {
+      "TwentyTwentyTwo": 170067,
+      "TwentyTwenty": 169176,
+      "Change": 0.53
+    },
+    "LandArea": {
+      "SquareMiles": 82.4,
+      "SquareKilometers": 213.4
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2053,
+      "SquareKilometers": 793
+    },
+    "Location": {
+      "North": 37.19,
+      "West": 93.29
+    }
+  },
+  {
+    "Rank": 155,
+    "City": "Pembroke Pines",
+    "State": "Florida",
+    "Population": {
+      "TwentyTwentyTwo": 169876,
+      "TwentyTwenty": 171178,
+      "Change": -0.76
+    },
+    "LandArea": {
+      "SquareMiles": 32.7,
+      "SquareKilometers": 84.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 5235,
+      "SquareKilometers": 2021
+    },
+    "Location": {
+      "North": 26.01,
+      "West": 80.34
+    }
+  },
+  {
+    "Rank": 156,
+    "City": "Garden Grove",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 169254,
+      "TwentyTwenty": 171949,
+      "Change": -1.57
+    },
+    "LandArea": {
+      "SquareMiles": 18,
+      "SquareKilometers": 46.6
+    },
+    "PopulationDensity": {
+      "SquareMiles": 9553,
+      "SquareKilometers": 3688
+    },
+    "Location": {
+      "North": 33.78,
+      "West": 117.96
+    }
+  },
+  {
+    "Rank": 157,
+    "City": "Fort Collins",
+    "State": "Colorado",
+    "Population": {
+      "TwentyTwentyTwo": 169249,
+      "TwentyTwenty": 169810,
+      "Change": -0.33
+    },
+    "LandArea": {
+      "SquareMiles": 57.2,
+      "SquareKilometers": 148.1
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2969,
+      "SquareKilometers": 1146
+    },
+    "Location": {
+      "North": 40.55,
+      "West": 105.06
+    }
+  },
+  {
+    "Rank": 158,
+    "City": "Lancaster",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 169185,
+      "TwentyTwenty": 173516,
+      "Change": -2.5
+    },
+    "LandArea": {
+      "SquareMiles": 94.3,
+      "SquareKilometers": 244.2
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1840,
+      "SquareKilometers": 710
+    },
+    "Location": {
+      "North": 34.69,
+      "West": 118.18
+    }
+  },
+  {
+    "Rank": 159,
+    "City": "Palmdale",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 163463,
+      "TwentyTwenty": 169450,
+      "Change": -3.53
+    },
+    "LandArea": {
+      "SquareMiles": 106.1,
+      "SquareKilometers": 274.8
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1597,
+      "SquareKilometers": 617
+    },
+    "Location": {
+      "North": 34.59,
+      "West": 118.11
+    }
+  },
+  {
+    "Rank": 160,
+    "City": "Murfreesboro",
+    "State": "Tennessee",
+    "Population": {
+      "TwentyTwentyTwo": 162398,
+      "TwentyTwenty": 152769,
+      "Change": 6.3
+    },
+    "LandArea": {
+      "SquareMiles": 62.9,
+      "SquareKilometers": 162.9
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2429,
+      "SquareKilometers": 938
+    },
+    "Location": {
+      "North": 35.85,
+      "West": 86.42
+    }
+  },
+  {
+    "Rank": 161,
+    "City": "Salinas",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 161020,
+      "TwentyTwenty": 163542,
+      "Change": -1.54
+    },
+    "LandArea": {
+      "SquareMiles": 23.5,
+      "SquareKilometers": 60.9
+    },
+    "PopulationDensity": {
+      "SquareMiles": 6959,
+      "SquareKilometers": 2687
+    },
+    "Location": {
+      "North": 36.69,
+      "West": 121.63
+    }
+  },
+  {
+    "Rank": 162,
+    "City": "Corona",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 159567,
+      "TwentyTwenty": 157136,
+      "Change": 1.55
+    },
+    "LandArea": {
+      "SquareMiles": 39.9,
+      "SquareKilometers": 103.3
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3938,
+      "SquareKilometers": 1520
+    },
+    "Location": {
+      "North": 33.86,
+      "West": 117.57
+    }
+  },
+  {
+    "Rank": 163,
+    "City": "Killeen",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 159172,
+      "TwentyTwenty": 153095,
+      "Change": 3.97
+    },
+    "LandArea": {
+      "SquareMiles": 54.8,
+      "SquareKilometers": 141.9
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2794,
+      "SquareKilometers": 1079
+    },
+    "Location": {
+      "North": 31.08,
+      "West": 97.73
+    }
+  },
+  {
+    "Rank": 164,
+    "City": "Hayward",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 156754,
+      "TwentyTwenty": 162954,
+      "Change": -3.8
+    },
+    "LandArea": {
+      "SquareMiles": 45.8,
+      "SquareKilometers": 118.6
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3558,
+      "SquareKilometers": 1374
+    },
+    "Location": {
+      "North": 37.63,
+      "West": 122.1
+    }
+  },
+  {
+    "Rank": 165,
+    "City": "Paterson",
+    "State": "New Jersey",
+    "Population": {
+      "TwentyTwentyTwo": 156661,
+      "TwentyTwenty": 159732,
+      "Change": -1.92
+    },
+    "LandArea": {
+      "SquareMiles": 8.4,
+      "SquareKilometers": 21.8
+    },
+    "PopulationDensity": {
+      "SquareMiles": 19016,
+      "SquareKilometers": 7342
+    },
+    "Location": {
+      "North": 40.91,
+      "West": 74.16
+    }
+  },
+  {
+    "Rank": 166,
+    "City": "Macon",
+    "State": "Georgia",
+    "Population": {
+      "TwentyTwentyTwo": 156197,
+      "TwentyTwenty": 157346,
+      "Change": -0.73
+    },
+    "LandArea": {
+      "SquareMiles": 249.4,
+      "SquareKilometers": 645.9
+    },
+    "PopulationDensity": {
+      "SquareMiles": 631,
+      "SquareKilometers": 244
+    },
+    "Location": {
+      "North": 32.81,
+      "West": 83.69
+    }
+  },
+  {
+    "Rank": 167,
+    "City": "Lakewood",
+    "State": "Colorado",
+    "Population": {
+      "TwentyTwentyTwo": 156120,
+      "TwentyTwenty": 155984,
+      "Change": 0.09
+    },
+    "LandArea": {
+      "SquareMiles": 43.5,
+      "SquareKilometers": 112.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3586,
+      "SquareKilometers": 1385
+    },
+    "Location": {
+      "North": 39.7,
+      "West": 105.12
+    }
+  },
+  {
+    "Rank": 168,
+    "City": "Alexandria",
+    "State": "Virginia",
+    "Population": {
+      "TwentyTwentyTwo": 155525,
+      "TwentyTwenty": 159467,
+      "Change": -2.47
+    },
+    "LandArea": {
+      "SquareMiles": 14.9,
+      "SquareKilometers": 38.6
+    },
+    "PopulationDensity": {
+      "SquareMiles": 10702,
+      "SquareKilometers": 4132
+    },
+    "Location": {
+      "North": 38.82,
+      "West": 77.08
+    }
+  },
+  {
+    "Rank": 169,
+    "City": "Roseville",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 154817,
+      "TwentyTwenty": 147773,
+      "Change": 4.77
+    },
+    "LandArea": {
+      "SquareMiles": 44.1,
+      "SquareKilometers": 114.2
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3351,
+      "SquareKilometers": 1294
+    },
+    "Location": {
+      "North": 38.77,
+      "West": 121.32
+    }
+  },
+  {
+    "Rank": 170,
+    "City": "Surprise",
+    "State": "Arizona",
+    "Population": {
+      "TwentyTwentyTwo": 154198,
+      "TwentyTwenty": 143148,
+      "Change": 7.72
+    },
+    "LandArea": {
+      "SquareMiles": 110.3,
+      "SquareKilometers": 285.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1298,
+      "SquareKilometers": 501
+    },
+    "Location": {
+      "North": 33.67,
+      "West": 112.45
+    }
+  },
+  {
+    "Rank": 171,
+    "City": "Springfield",
+    "State": "Massachusetts",
+    "Population": {
+      "TwentyTwentyTwo": 154064,
+      "TwentyTwenty": 155929,
+      "Change": -1.2
+    },
+    "LandArea": {
+      "SquareMiles": 31.9,
+      "SquareKilometers": 82.6
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4888,
+      "SquareKilometers": 1887
+    },
+    "Location": {
+      "North": 42.12,
+      "West": 72.54
+    }
+  },
+  {
+    "Rank": 172,
+    "City": "Charleston",
+    "State": "South Carolina",
+    "Population": {
+      "TwentyTwentyTwo": 153672,
+      "TwentyTwenty": 150227,
+      "Change": 2.29
+    },
+    "LandArea": {
+      "SquareMiles": 114.8,
+      "SquareKilometers": 297.3
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1309,
+      "SquareKilometers": 505
+    },
+    "Location": {
+      "North": 32.83,
+      "West": 79.97
+    }
+  },
+  {
+    "Rank": 173,
+    "City": "Kansas City",
+    "State": "Kansas",
+    "Population": {
+      "TwentyTwentyTwo": 153345,
+      "TwentyTwenty": 156607,
+      "Change": -2.08
+    },
+    "LandArea": {
+      "SquareMiles": 124.7,
+      "SquareKilometers": 323
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1256,
+      "SquareKilometers": 485
+    },
+    "Location": {
+      "North": 39.12,
+      "West": 94.74
+    }
+  },
+  {
+    "Rank": 174,
+    "City": "Sunnyvale",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 153091,
+      "TwentyTwenty": 155805,
+      "Change": -1.74
+    },
+    "LandArea": {
+      "SquareMiles": 22.1,
+      "SquareKilometers": 57.2
+    },
+    "PopulationDensity": {
+      "SquareMiles": 7050,
+      "SquareKilometers": 2720
+    },
+    "Location": {
+      "North": 37.39,
+      "West": 122.03
+    }
+  },
+  {
+    "Rank": 175,
+    "City": "Bellevue",
+    "State": "Washington",
+    "Population": {
+      "TwentyTwentyTwo": 152767,
+      "TwentyTwenty": 151854,
+      "Change": 0.6
+    },
+    "LandArea": {
+      "SquareMiles": 33.5,
+      "SquareKilometers": 86.8
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4533,
+      "SquareKilometers": 1750
+    },
+    "Location": {
+      "North": 47.6,
+      "West": 122.16
+    }
+  },
+  {
+    "Rank": 176,
+    "City": "Hollywood",
+    "State": "Florida",
+    "Population": {
+      "TwentyTwentyTwo": 152650,
+      "TwentyTwenty": 153067,
+      "Change": -0.27
+    },
+    "LandArea": {
+      "SquareMiles": 27.3,
+      "SquareKilometers": 70.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 5607,
+      "SquareKilometers": 2165
+    },
+    "Location": {
+      "North": 26.03,
+      "West": 80.16
+    }
+  },
+  {
+    "Rank": 177,
+    "City": "Denton",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 150353,
+      "TwentyTwenty": 139869,
+      "Change": 7.5
+    },
+    "LandArea": {
+      "SquareMiles": 96.4,
+      "SquareKilometers": 249.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1451,
+      "SquareKilometers": 560
+    },
+    "Location": {
+      "North": 33.22,
+      "West": 97.14
+    }
+  },
+  {
+    "Rank": 178,
+    "City": "Escondido",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 150270,
+      "TwentyTwenty": 151038,
+      "Change": -0.51
+    },
+    "LandArea": {
+      "SquareMiles": 37.3,
+      "SquareKilometers": 96.6
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4049,
+      "SquareKilometers": 1563
+    },
+    "Location": {
+      "North": 33.13,
+      "West": 117.07
+    }
+  },
+  {
+    "Rank": 179,
+    "City": "Joliet",
+    "State": "Illinois",
+    "Population": {
+      "TwentyTwentyTwo": 150033,
+      "TwentyTwenty": 150362,
+      "Change": -0.22
+    },
+    "LandArea": {
+      "SquareMiles": 64.5,
+      "SquareKilometers": 167.1
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2331,
+      "SquareKilometers": 900
+    },
+    "Location": {
+      "North": 41.52,
+      "West": 88.15
+    }
+  },
+  {
+    "Rank": 180,
+    "City": "Naperville",
+    "State": "Illinois",
+    "Population": {
+      "TwentyTwentyTwo": 149936,
+      "TwentyTwenty": 149540,
+      "Change": 0.26
+    },
+    "LandArea": {
+      "SquareMiles": 39.1,
+      "SquareKilometers": 101.3
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3825,
+      "SquareKilometers": 1477
+    },
+    "Location": {
+      "North": 41.75,
+      "West": 88.16
+    }
+  },
+  {
+    "Rank": 181,
+    "City": "Bridgeport",
+    "State": "Connecticut",
+    "Population": {
+      "TwentyTwentyTwo": 148377,
+      "TwentyTwenty": 148654,
+      "Change": -0.19
+    },
+    "LandArea": {
+      "SquareMiles": 16.1,
+      "SquareKilometers": 41.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 9233,
+      "SquareKilometers": 3565
+    },
+    "Location": {
+      "North": 41.19,
+      "West": 73.2
+    }
+  },
+  {
+    "Rank": 182,
+    "City": "Savannah",
+    "State": "Georgia",
+    "Population": {
+      "TwentyTwentyTwo": 148004,
+      "TwentyTwenty": 147780,
+      "Change": 0.15
+    },
+    "LandArea": {
+      "SquareMiles": 106.8,
+      "SquareKilometers": 276.6
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1384,
+      "SquareKilometers": 534
+    },
+    "Location": {
+      "North": 32,
+      "West": 81.15
+    }
+  },
+  {
+    "Rank": 183,
+    "City": "Mesquite",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 147899,
+      "TwentyTwenty": 150108,
+      "Change": -1.47
+    },
+    "LandArea": {
+      "SquareMiles": 48.5,
+      "SquareKilometers": 125.6
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3095,
+      "SquareKilometers": 1195
+    },
+    "Location": {
+      "North": 32.76,
+      "West": 96.59
+    }
+  },
+  {
+    "Rank": 184,
+    "City": "Pasadena",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 147662,
+      "TwentyTwenty": 151950,
+      "Change": -2.82
+    },
+    "LandArea": {
+      "SquareMiles": 43.7,
+      "SquareKilometers": 113.2
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3477,
+      "SquareKilometers": 1342
+    },
+    "Location": {
+      "North": 29.65,
+      "West": 95.15
+    }
+  },
+  {
+    "Rank": 185,
+    "City": "Rockford",
+    "State": "Illinois",
+    "Population": {
+      "TwentyTwentyTwo": 146713,
+      "TwentyTwenty": 148655,
+      "Change": -1.31
+    },
+    "LandArea": {
+      "SquareMiles": 64.5,
+      "SquareKilometers": 167.1
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2305,
+      "SquareKilometers": 890
+    },
+    "Location": {
+      "North": 42.26,
+      "West": 89.06
+    }
+  },
+  {
+    "Rank": 186,
+    "City": "Pomona",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 146017,
+      "TwentyTwenty": 151713,
+      "Change": -3.75
+    },
+    "LandArea": {
+      "SquareMiles": 23,
+      "SquareKilometers": 59.6
+    },
+    "PopulationDensity": {
+      "SquareMiles": 6596,
+      "SquareKilometers": 2547
+    },
+    "Location": {
+      "North": 34.06,
+      "West": 117.76
+    }
+  },
+  {
+    "Rank": 187,
+    "City": "Jackson",
+    "State": "Mississippi",
+    "Population": {
+      "TwentyTwentyTwo": 145995,
+      "TwentyTwenty": 153701,
+      "Change": -5.01
+    },
+    "LandArea": {
+      "SquareMiles": 111.7,
+      "SquareKilometers": 289.3
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1376,
+      "SquareKilometers": 531
+    },
+    "Location": {
+      "North": 32.32,
+      "West": 90.21
+    }
+  },
+  {
+    "Rank": 188,
+    "City": "Olathe",
+    "State": "Kansas",
+    "Population": {
+      "TwentyTwentyTwo": 145616,
+      "TwentyTwenty": 141290,
+      "Change": 3.06
+    },
+    "LandArea": {
+      "SquareMiles": 61.9,
+      "SquareKilometers": 160.3
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2283,
+      "SquareKilometers": 881
+    },
+    "Location": {
+      "North": 38.88,
+      "West": 94.82
+    }
+  },
+  {
+    "Rank": 189,
+    "City": "Gainesville",
+    "State": "Florida",
+    "Population": {
+      "TwentyTwentyTwo": 145214,
+      "TwentyTwenty": 141085,
+      "Change": 2.93
+    },
+    "LandArea": {
+      "SquareMiles": 63.2,
+      "SquareKilometers": 163.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2232,
+      "SquareKilometers": 862
+    },
+    "Location": {
+      "North": 29.68,
+      "West": 82.35
+    }
+  },
+  {
+    "Rank": 190,
+    "City": "McAllen",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 144579,
+      "TwentyTwenty": 142210,
+      "Change": 1.67
+    },
+    "LandArea": {
+      "SquareMiles": 62.3,
+      "SquareKilometers": 161.4
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2283,
+      "SquareKilometers": 881
+    },
+    "Location": {
+      "North": 26.22,
+      "West": 98.25
+    }
+  },
+  {
+    "Rank": 191,
+    "City": "Syracuse",
+    "State": "New York",
+    "Population": {
+      "TwentyTwentyTwo": 144451,
+      "TwentyTwenty": 148620,
+      "Change": -2.81
+    },
+    "LandArea": {
+      "SquareMiles": 25.1,
+      "SquareKilometers": 65
+    },
+    "PopulationDensity": {
+      "SquareMiles": 5921,
+      "SquareKilometers": 2286
+    },
+    "Location": {
+      "North": 43.04,
+      "West": 76.14
+    }
+  },
+  {
+    "Rank": 192,
+    "City": "Waco",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 143984,
+      "TwentyTwenty": 138486,
+      "Change": 3.97
+    },
+    "LandArea": {
+      "SquareMiles": 88.7,
+      "SquareKilometers": 229.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1561,
+      "SquareKilometers": 603
+    },
+    "Location": {
+      "North": 31.56,
+      "West": 97.19
+    }
+  },
+  {
+    "Rank": 193,
+    "City": "Visalia",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 143966,
+      "TwentyTwenty": 141384,
+      "Change": 1.83
+    },
+    "LandArea": {
+      "SquareMiles": 37.9,
+      "SquareKilometers": 98.2
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3730,
+      "SquareKilometers": 1440
+    },
+    "Location": {
+      "North": 36.33,
+      "West": 119.33
+    }
+  },
+  {
+    "Rank": 194,
+    "City": "Thornton",
+    "State": "Colorado",
+    "Population": {
+      "TwentyTwentyTwo": 143282,
+      "TwentyTwenty": 141867,
+      "Change": 1
+    },
+    "LandArea": {
+      "SquareMiles": 35.9,
+      "SquareKilometers": 93
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3952,
+      "SquareKilometers": 1526
+    },
+    "Location": {
+      "North": 39.92,
+      "West": 104.94
+    }
+  },
+  {
+    "Rank": 195,
+    "City": "Torrance",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 141126,
+      "TwentyTwenty": 147067,
+      "Change": -4.04
+    },
+    "LandArea": {
+      "SquareMiles": 20.5,
+      "SquareKilometers": 53.1
+    },
+    "PopulationDensity": {
+      "SquareMiles": 7174,
+      "SquareKilometers": 2770
+    },
+    "Location": {
+      "North": 33.83,
+      "West": 118.36
+    }
+  },
+  {
+    "Rank": 196,
+    "City": "Fullerton",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 140541,
+      "TwentyTwenty": 143617,
+      "Change": -2.14
+    },
+    "LandArea": {
+      "SquareMiles": 22.4,
+      "SquareKilometers": 58
+    },
+    "PopulationDensity": {
+      "SquareMiles": 6411,
+      "SquareKilometers": 2475
+    },
+    "Location": {
+      "North": 33.89,
+      "West": 117.93
+    }
+  },
+  {
+    "Rank": 197,
+    "City": "Columbia",
+    "State": "South Carolina",
+    "Population": {
+      "TwentyTwentyTwo": 139698,
+      "TwentyTwenty": 136632,
+      "Change": 2.24
+    },
+    "LandArea": {
+      "SquareMiles": 136.8,
+      "SquareKilometers": 354.3
+    },
+    "PopulationDensity": {
+      "SquareMiles": 999,
+      "SquareKilometers": 386
+    },
+    "Location": {
+      "North": 34.04,
+      "West": 80.91
+    }
+  },
+  {
+    "Rank": 198,
+    "City": "Lakewood",
+    "State": "New Jersey",
+    "Population": {
+      "TwentyTwentyTwo": 139506,
+      "TwentyTwenty": 135158,
+      "Change": 3.22
+    },
+    "LandArea": {
+      "SquareMiles": 24.7,
+      "SquareKilometers": 64
+    },
+    "PopulationDensity": {
+      "SquareMiles": 5472,
+      "SquareKilometers": 2113
+    },
+    "Location": {
+      "North": 40.08,
+      "West": 74.2
+    }
+  },
+  {
+    "Rank": 199,
+    "City": "New Haven",
+    "State": "Connecticut",
+    "Population": {
+      "TwentyTwentyTwo": 138915,
+      "TwentyTwenty": 134023,
+      "Change": 3.65
+    },
+    "LandArea": {
+      "SquareMiles": 18.7,
+      "SquareKilometers": 48.4
+    },
+    "PopulationDensity": {
+      "SquareMiles": 7167,
+      "SquareKilometers": 2767
+    },
+    "Location": {
+      "North": 41.31,
+      "West": 72.92
+    }
+  },
+  {
+    "Rank": 200,
+    "City": "Hampton",
+    "State": "Virginia",
+    "Population": {
+      "TwentyTwentyTwo": 138037,
+      "TwentyTwenty": 137148,
+      "Change": 0.65
+    },
+    "LandArea": {
+      "SquareMiles": 51.5,
+      "SquareKilometers": 133.4
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2663,
+      "SquareKilometers": 1028
+    },
+    "Location": {
+      "North": 37.05,
+      "West": 76.3
+    }
+  },
+  {
+    "Rank": 201,
+    "City": "Miramar",
+    "State": "Florida",
+    "Population": {
+      "TwentyTwentyTwo": 137228,
+      "TwentyTwenty": 134721,
+      "Change": 1.86
+    },
+    "LandArea": {
+      "SquareMiles": 28.9,
+      "SquareKilometers": 74.9
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4662,
+      "SquareKilometers": 1800
+    },
+    "Location": {
+      "North": 25.97,
+      "West": 80.34
+    }
+  },
+  {
+    "Rank": 202,
+    "City": "Victorville",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 137221,
+      "TwentyTwenty": 134810,
+      "Change": 1.79
+    },
+    "LandArea": {
+      "SquareMiles": 73.7,
+      "SquareKilometers": 190.9
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1829,
+      "SquareKilometers": 706
+    },
+    "Location": {
+      "North": 34.53,
+      "West": 117.35
+    }
+  },
+  {
+    "Rank": 203,
+    "City": "Warren",
+    "State": "Michigan",
+    "Population": {
+      "TwentyTwentyTwo": 137107,
+      "TwentyTwenty": 139387,
+      "Change": -1.64
+    },
+    "LandArea": {
+      "SquareMiles": 34.4,
+      "SquareKilometers": 89.1
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4052,
+      "SquareKilometers": 1564
+    },
+    "Location": {
+      "North": 42.49,
+      "West": 83.03
+    }
+  },
+  {
+    "Rank": 204,
+    "City": "West Valley City",
+    "State": "Utah",
+    "Population": {
+      "TwentyTwentyTwo": 136650,
+      "TwentyTwenty": 140230,
+      "Change": -2.55
+    },
+    "LandArea": {
+      "SquareMiles": 35.8,
+      "SquareKilometers": 92.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3917,
+      "SquareKilometers": 1512
+    },
+    "Location": {
+      "North": 40.69,
+      "West": 112.01
+    }
+  },
+  {
+    "Rank": 205,
+    "City": "Cedar Rapids",
+    "State": "Iowa",
+    "Population": {
+      "TwentyTwentyTwo": 136429,
+      "TwentyTwenty": 137710,
+      "Change": -0.93
+    },
+    "LandArea": {
+      "SquareMiles": 72.1,
+      "SquareKilometers": 186.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1910,
+      "SquareKilometers": 740
+    },
+    "Location": {
+      "North": 41.97,
+      "West": 91.68
+    }
+  },
+  {
+    "Rank": 206,
+    "City": "Stamford",
+    "State": "Connecticut",
+    "Population": {
+      "TwentyTwentyTwo": 136188,
+      "TwentyTwenty": 135470,
+      "Change": 0.53
+    },
+    "LandArea": {
+      "SquareMiles": 37.6,
+      "SquareKilometers": 97.4
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3603,
+      "SquareKilometers": 1391
+    },
+    "Location": {
+      "North": 41.08,
+      "West": 73.55
+    }
+  },
+  {
+    "Rank": 207,
+    "City": "Orange",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 136178,
+      "TwentyTwenty": 139911,
+      "Change": -2.67
+    },
+    "LandArea": {
+      "SquareMiles": 25.7,
+      "SquareKilometers": 66.6
+    },
+    "PopulationDensity": {
+      "SquareMiles": 5444,
+      "SquareKilometers": 2102
+    },
+    "Location": {
+      "North": 33.79,
+      "West": 117.86
+    }
+  },
+  {
+    "Rank": 208,
+    "City": "Dayton",
+    "State": "Ohio",
+    "Population": {
+      "TwentyTwentyTwo": 135944,
+      "TwentyTwenty": 137644,
+      "Change": -1.24
+    },
+    "LandArea": {
+      "SquareMiles": 55.8,
+      "SquareKilometers": 144.5
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2467,
+      "SquareKilometers": 953
+    },
+    "Location": {
+      "North": 39.78,
+      "West": 84.2
+    }
+  },
+  {
+    "Rank": 209,
+    "City": "Midland",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 134444,
+      "TwentyTwenty": 132524,
+      "Change": 1.45
+    },
+    "LandArea": {
+      "SquareMiles": 75.5,
+      "SquareKilometers": 195.5
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1755,
+      "SquareKilometers": 678
+    },
+    "Location": {
+      "North": 32.02,
+      "West": 102.11
+    }
+  },
+  {
+    "Rank": 210,
+    "City": "Kent",
+    "State": "Washington",
+    "Population": {
+      "TwentyTwentyTwo": 134392,
+      "TwentyTwenty": 136588,
+      "Change": -1.61
+    },
+    "LandArea": {
+      "SquareMiles": 33.8,
+      "SquareKilometers": 87.5
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4041,
+      "SquareKilometers": 1560
+    },
+    "Location": {
+      "North": 47.39,
+      "West": 122.21
+    }
+  },
+  {
+    "Rank": 211,
+    "City": "Elizabeth",
+    "State": "New Jersey",
+    "Population": {
+      "TwentyTwentyTwo": 134283,
+      "TwentyTwenty": 137298,
+      "Change": -2.2
+    },
+    "LandArea": {
+      "SquareMiles": 12.3,
+      "SquareKilometers": 31.9
+    },
+    "PopulationDensity": {
+      "SquareMiles": 11162,
+      "SquareKilometers": 4310
+    },
+    "Location": {
+      "North": 40.67,
+      "West": 74.19
+    }
+  },
+  {
+    "Rank": 212,
+    "City": "Pasadena",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 134211,
+      "TwentyTwenty": 138699,
+      "Change": -3.24
+    },
+    "LandArea": {
+      "SquareMiles": 23,
+      "SquareKilometers": 59.6
+    },
+    "PopulationDensity": {
+      "SquareMiles": 6030,
+      "SquareKilometers": 2330
+    },
+    "Location": {
+      "North": 34.16,
+      "West": 118.14
+    }
+  },
+  {
+    "Rank": 213,
+    "City": "Carrollton",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 133820,
+      "TwentyTwenty": 133434,
+      "Change": 0.29
+    },
+    "LandArea": {
+      "SquareMiles": 36.7,
+      "SquareKilometers": 95.1
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3636,
+      "SquareKilometers": 1404
+    },
+    "Location": {
+      "North": 32.99,
+      "West": 96.9
+    }
+  },
+  {
+    "Rank": 214,
+    "City": "Coral Springs",
+    "State": "Florida",
+    "Population": {
+      "TwentyTwentyTwo": 133369,
+      "TwentyTwenty": 134394,
+      "Change": -0.76
+    },
+    "LandArea": {
+      "SquareMiles": 22.9,
+      "SquareKilometers": 59.3
+    },
+    "PopulationDensity": {
+      "SquareMiles": 5869,
+      "SquareKilometers": 2266
+    },
+    "Location": {
+      "North": 26.27,
+      "West": 80.26
+    }
+  },
+  {
+    "Rank": 215,
+    "City": "Sterling Heights",
+    "State": "Michigan",
+    "Population": {
+      "TwentyTwentyTwo": 132567,
+      "TwentyTwenty": 134346,
+      "Change": -1.32
+    },
+    "LandArea": {
+      "SquareMiles": 36.4,
+      "SquareKilometers": 94.3
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3691,
+      "SquareKilometers": 1425
+    },
+    "Location": {
+      "North": 42.58,
+      "West": 83.03
+    }
+  },
+  {
+    "Rank": 216,
+    "City": "Fargo",
+    "State": "North Dakota",
+    "Population": {
+      "TwentyTwentyTwo": 131444,
+      "TwentyTwenty": 125990,
+      "Change": 4.33
+    },
+    "LandArea": {
+      "SquareMiles": 49.8,
+      "SquareKilometers": 129
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2530,
+      "SquareKilometers": 980
+    },
+    "Location": {
+      "North": 46.86,
+      "West": 96.83
+    }
+  },
+  {
+    "Rank": 217,
+    "City": "Lewisville",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 131215,
+      "TwentyTwenty": 111822,
+      "Change": 17.34
+    },
+    "LandArea": {
+      "SquareMiles": 37,
+      "SquareKilometers": 95.8
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3022,
+      "SquareKilometers": 1167
+    },
+    "Location": {
+      "North": 33.05,
+      "West": 96.98
+    }
+  },
+  {
+    "Rank": 218,
+    "City": "Meridian",
+    "State": "Idaho",
+    "Population": {
+      "TwentyTwentyTwo": 129736,
+      "TwentyTwenty": 117635,
+      "Change": 10.29
+    },
+    "LandArea": {
+      "SquareMiles": 35.1,
+      "SquareKilometers": 90.9
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3351,
+      "SquareKilometers": 1294
+    },
+    "Location": {
+      "North": 43.61,
+      "West": 116.4
+    }
+  },
+  {
+    "Rank": 219,
+    "City": "Norman",
+    "State": "Oklahoma",
+    "Population": {
+      "TwentyTwentyTwo": 129627,
+      "TwentyTwenty": 128026,
+      "Change": 1.25
+    },
+    "LandArea": {
+      "SquareMiles": 178.8,
+      "SquareKilometers": 463.1
+    },
+    "PopulationDensity": {
+      "SquareMiles": 716,
+      "SquareKilometers": 276
+    },
+    "Location": {
+      "North": 35.24,
+      "West": 97.35
+    }
+  },
+  {
+    "Rank": 220,
+    "City": "Palm Bay",
+    "State": "Florida",
+    "Population": {
+      "TwentyTwentyTwo": 129234,
+      "TwentyTwenty": 119760,
+      "Change": 7.91
+    },
+    "LandArea": {
+      "SquareMiles": 86.4,
+      "SquareKilometers": 223.8
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1386,
+      "SquareKilometers": 535
+    },
+    "Location": {
+      "North": 27.96,
+      "West": 80.66
+    }
+  },
+  {
+    "Rank": 221,
+    "City": "Athens",
+    "State": "Georgia",
+    "Population": {
+      "TwentyTwentyTwo": 128561,
+      "TwentyTwenty": 127315,
+      "Change": 0.98
+    },
+    "LandArea": {
+      "SquareMiles": 116.3,
+      "SquareKilometers": 301.2
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1095,
+      "SquareKilometers": 423
+    },
+    "Location": {
+      "North": 33.95,
+      "West": 83.37
+    }
+  },
+  {
+    "Rank": 222,
+    "City": "Columbia",
+    "State": "Missouri",
+    "Population": {
+      "TwentyTwentyTwo": 128555,
+      "TwentyTwenty": 126254,
+      "Change": 1.82
+    },
+    "LandArea": {
+      "SquareMiles": 66.5,
+      "SquareKilometers": 172.2
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1899,
+      "SquareKilometers": 733
+    },
+    "Location": {
+      "North": 38.95,
+      "West": 92.33
+    }
+  },
+  {
+    "Rank": 223,
+    "City": "Abilene",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 127385,
+      "TwentyTwenty": 125182,
+      "Change": 1.76
+    },
+    "LandArea": {
+      "SquareMiles": 106.7,
+      "SquareKilometers": 276.4
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1173,
+      "SquareKilometers": 453
+    },
+    "Location": {
+      "North": 32.45,
+      "West": 99.74
+    }
+  },
+  {
+    "Rank": 224,
+    "City": "Pearland",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 126949,
+      "TwentyTwenty": 125828,
+      "Change": 0.89
+    },
+    "LandArea": {
+      "SquareMiles": 48.7,
+      "SquareKilometers": 126.1
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2584,
+      "SquareKilometers": 998
+    },
+    "Location": {
+      "North": 29.56,
+      "West": 95.32
+    }
+  },
+  {
+    "Rank": 225,
+    "City": "Santa Clara",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 126930,
+      "TwentyTwenty": 127647,
+      "Change": -0.56
+    },
+    "LandArea": {
+      "SquareMiles": 18.3,
+      "SquareKilometers": 47.4
+    },
+    "PopulationDensity": {
+      "SquareMiles": 6975,
+      "SquareKilometers": 2693
+    },
+    "Location": {
+      "North": 37.36,
+      "West": 121.97
+    }
+  },
+  {
+    "Rank": 226,
+    "City": "Round Rock",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 126697,
+      "TwentyTwenty": 119468,
+      "Change": 6.05
+    },
+    "LandArea": {
+      "SquareMiles": 37.6,
+      "SquareKilometers": 97.4
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3177,
+      "SquareKilometers": 1227
+    },
+    "Location": {
+      "North": 30.53,
+      "West": 97.66
+    }
+  },
+  {
+    "Rank": 227,
+    "City": "Topeka",
+    "State": "Kansas",
+    "Population": {
+      "TwentyTwentyTwo": 125449,
+      "TwentyTwenty": 126587,
+      "Change": -0.9
+    },
+    "LandArea": {
+      "SquareMiles": 61.4,
+      "SquareKilometers": 159
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2062,
+      "SquareKilometers": 796
+    },
+    "Location": {
+      "North": 39.03,
+      "West": 95.69
+    }
+  },
+  {
+    "Rank": 228,
+    "City": "Allentown",
+    "State": "Pennsylvania",
+    "Population": {
+      "TwentyTwentyTwo": 125094,
+      "TwentyTwenty": 125845,
+      "Change": -0.6
+    },
+    "LandArea": {
+      "SquareMiles": 17.6,
+      "SquareKilometers": 45.6
+    },
+    "PopulationDensity": {
+      "SquareMiles": 7150,
+      "SquareKilometers": 2760
+    },
+    "Location": {
+      "North": 40.59,
+      "West": 75.48
+    }
+  },
+  {
+    "Rank": 229,
+    "City": "Clovis",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 124556,
+      "TwentyTwenty": 120124,
+      "Change": 3.69
+    },
+    "LandArea": {
+      "SquareMiles": 25.4,
+      "SquareKilometers": 65.8
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4729,
+      "SquareKilometers": 1826
+    },
+    "Location": {
+      "North": 36.83,
+      "West": 119.68
+    }
+  },
+  {
+    "Rank": 230,
+    "City": "Simi Valley",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 124398,
+      "TwentyTwenty": 126356,
+      "Change": -1.55
+    },
+    "LandArea": {
+      "SquareMiles": 41.5,
+      "SquareKilometers": 107.5
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3045,
+      "SquareKilometers": 1176
+    },
+    "Location": {
+      "North": 34.27,
+      "West": 118.75
+    }
+  },
+  {
+    "Rank": 231,
+    "City": "College Station",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 124319,
+      "TwentyTwenty": 120511,
+      "Change": 3.16
+    },
+    "LandArea": {
+      "SquareMiles": 51.2,
+      "SquareKilometers": 132.6
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2354,
+      "SquareKilometers": 909
+    },
+    "Location": {
+      "North": 30.59,
+      "West": 96.3
+    }
+  },
+  {
+    "Rank": 232,
+    "City": "Thousand Oaks",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 124265,
+      "TwentyTwenty": 126966,
+      "Change": -2.13
+    },
+    "LandArea": {
+      "SquareMiles": 55.3,
+      "SquareKilometers": 143.2
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2296,
+      "SquareKilometers": 886
+    },
+    "Location": {
+      "North": 34.19,
+      "West": 118.87
+    }
+  },
+  {
+    "Rank": 233,
+    "City": "Vallejo",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 123564,
+      "TwentyTwenty": 126090,
+      "Change": -2
+    },
+    "LandArea": {
+      "SquareMiles": 30.4,
+      "SquareKilometers": 78.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4148,
+      "SquareKilometers": 1602
+    },
+    "Location": {
+      "North": 38.11,
+      "West": 122.26
+    }
+  },
+  {
+    "Rank": 234,
+    "City": "Concord",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 122625,
+      "TwentyTwenty": 125410,
+      "Change": -2.22
+    },
+    "LandArea": {
+      "SquareMiles": 30.6,
+      "SquareKilometers": 79.3
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4098,
+      "SquareKilometers": 1582
+    },
+    "Location": {
+      "North": 37.97,
+      "West": 122
+    }
+  },
+  {
+    "Rank": 235,
+    "City": "Rochester",
+    "State": "Minnesota",
+    "Population": {
+      "TwentyTwentyTwo": 121878,
+      "TwentyTwenty": 121395,
+      "Change": 0.4
+    },
+    "LandArea": {
+      "SquareMiles": 55.5,
+      "SquareKilometers": 143.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2187,
+      "SquareKilometers": 844
+    },
+    "Location": {
+      "North": 44.02,
+      "West": 92.48
+    }
+  },
+  {
+    "Rank": 236,
+    "City": "Arvada",
+    "State": "Colorado",
+    "Population": {
+      "TwentyTwentyTwo": 121581,
+      "TwentyTwenty": 124402,
+      "Change": -2.27
+    },
+    "LandArea": {
+      "SquareMiles": 38.9,
+      "SquareKilometers": 100.8
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3198,
+      "SquareKilometers": 1235
+    },
+    "Location": {
+      "North": 39.83,
+      "West": 105.15
+    }
+  },
+  {
+    "Rank": 237,
+    "City": "Lafayette",
+    "State": "Louisiana",
+    "Population": {
+      "TwentyTwentyTwo": 121389,
+      "TwentyTwenty": 121374,
+      "Change": 0.01
+    },
+    "LandArea": {
+      "SquareMiles": 55.8,
+      "SquareKilometers": 144.5
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2175,
+      "SquareKilometers": 840
+    },
+    "Location": {
+      "North": 30.21,
+      "West": 92.03
+    }
+  },
+  {
+    "Rank": 238,
+    "City": "Independence",
+    "State": "Missouri",
+    "Population": {
+      "TwentyTwentyTwo": 121202,
+      "TwentyTwenty": 123011,
+      "Change": -1.47
+    },
+    "LandArea": {
+      "SquareMiles": 78,
+      "SquareKilometers": 202
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1577,
+      "SquareKilometers": 609
+    },
+    "Location": {
+      "North": 39.09,
+      "West": 94.35
+    }
+  },
+  {
+    "Rank": 239,
+    "City": "West Palm Beach",
+    "State": "Florida",
+    "Population": {
+      "TwentyTwentyTwo": 120932,
+      "TwentyTwenty": 117415,
+      "Change": 3
+    },
+    "LandArea": {
+      "SquareMiles": 53.8,
+      "SquareKilometers": 139.3
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2182,
+      "SquareKilometers": 842
+    },
+    "Location": {
+      "North": 26.75,
+      "West": 80.13
+    }
+  },
+  {
+    "Rank": 240,
+    "City": "Hartford",
+    "State": "Connecticut",
+    "Population": {
+      "TwentyTwentyTwo": 120686,
+      "TwentyTwenty": 121054,
+      "Change": -0.3
+    },
+    "LandArea": {
+      "SquareMiles": 17.4,
+      "SquareKilometers": 45.1
+    },
+    "PopulationDensity": {
+      "SquareMiles": 6957,
+      "SquareKilometers": 2686
+    },
+    "Location": {
+      "North": 41.77,
+      "West": 72.68
+    }
+  },
+  {
+    "Rank": 241,
+    "City": "Wilmington",
+    "State": "North Carolina",
+    "Population": {
+      "TwentyTwentyTwo": 120324,
+      "TwentyTwenty": 115451,
+      "Change": 4.22
+    },
+    "LandArea": {
+      "SquareMiles": 51.4,
+      "SquareKilometers": 133.1
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2246,
+      "SquareKilometers": 867
+    },
+    "Location": {
+      "North": 34.21,
+      "West": 77.89
+    }
+  },
+  {
+    "Rank": 242,
+    "City": "Lakeland",
+    "State": "Florida",
+    "Population": {
+      "TwentyTwentyTwo": 120071,
+      "TwentyTwenty": 112641,
+      "Change": 6.6
+    },
+    "LandArea": {
+      "SquareMiles": 66.2,
+      "SquareKilometers": 171.5
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1702,
+      "SquareKilometers": 657
+    },
+    "Location": {
+      "North": 28.06,
+      "West": 81.95
+    }
+  },
+  {
+    "Rank": 243,
+    "City": "Billings",
+    "State": "Montana",
+    "Population": {
+      "TwentyTwentyTwo": 119960,
+      "TwentyTwenty": 117116,
+      "Change": 2.43
+    },
+    "LandArea": {
+      "SquareMiles": 44.8,
+      "SquareKilometers": 116
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2614,
+      "SquareKilometers": 1009
+    },
+    "Location": {
+      "North": 45.79,
+      "West": 108.55
+    }
+  },
+  {
+    "Rank": 244,
+    "City": "Ann Arbor",
+    "State": "Michigan",
+    "Population": {
+      "TwentyTwentyTwo": 119875,
+      "TwentyTwenty": 123851,
+      "Change": -3.21
+    },
+    "LandArea": {
+      "SquareMiles": 28.2,
+      "SquareKilometers": 73
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4392,
+      "SquareKilometers": 1696
+    },
+    "Location": {
+      "North": 42.28,
+      "West": 83.73
+    }
+  },
+  {
+    "Rank": 245,
+    "City": "Fairfield",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 119338,
+      "TwentyTwenty": 119881,
+      "Change": -0.45
+    },
+    "LandArea": {
+      "SquareMiles": 41.6,
+      "SquareKilometers": 107.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2882,
+      "SquareKilometers": 1113
+    },
+    "Location": {
+      "North": 38.26,
+      "West": 122.03
+    }
+  },
+  {
+    "Rank": 246,
+    "City": "Berkeley",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 118950,
+      "TwentyTwenty": 124321,
+      "Change": -4.32
+    },
+    "LandArea": {
+      "SquareMiles": 10.4,
+      "SquareKilometers": 26.9
+    },
+    "PopulationDensity": {
+      "SquareMiles": 11954,
+      "SquareKilometers": 4615
+    },
+    "Location": {
+      "North": 37.87,
+      "West": 122.3
+    }
+  },
+  {
+    "Rank": 247,
+    "City": "Richardson",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 118802,
+      "TwentyTwenty": 119469,
+      "Change": -0.56
+    },
+    "LandArea": {
+      "SquareMiles": 28.6,
+      "SquareKilometers": 74.1
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4177,
+      "SquareKilometers": 1613
+    },
+    "Location": {
+      "North": 32.97,
+      "West": 96.71
+    }
+  },
+  {
+    "Rank": 248,
+    "City": "North Charleston",
+    "State": "South Carolina",
+    "Population": {
+      "TwentyTwentyTwo": 118608,
+      "TwentyTwenty": 114852,
+      "Change": 3.27
+    },
+    "LandArea": {
+      "SquareMiles": 77.6,
+      "SquareKilometers": 201
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1480,
+      "SquareKilometers": 570
+    },
+    "Location": {
+      "North": 32.92,
+      "West": 80.07
+    }
+  },
+  {
+    "Rank": 249,
+    "City": "Cambridge",
+    "State": "Massachusetts",
+    "Population": {
+      "TwentyTwentyTwo": 118488,
+      "TwentyTwenty": 118403,
+      "Change": 0.07
+    },
+    "LandArea": {
+      "SquareMiles": 6.4,
+      "SquareKilometers": 16.6
+    },
+    "PopulationDensity": {
+      "SquareMiles": 18500,
+      "SquareKilometers": 7100
+    },
+    "Location": {
+      "North": 42.38,
+      "West": 71.12
+    }
+  },
+  {
+    "Rank": 250,
+    "City": "Broken Arrow",
+    "State": "Oklahoma",
+    "Population": {
+      "TwentyTwentyTwo": 117911,
+      "TwentyTwenty": 113540,
+      "Change": 3.85
+    },
+    "LandArea": {
+      "SquareMiles": 63,
+      "SquareKilometers": 163.2
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1802,
+      "SquareKilometers": 696
+    },
+    "Location": {
+      "North": 36.04,
+      "West": 95.78
+    }
+  },
+  {
+    "Rank": 251,
+    "City": "Clearwater",
+    "State": "Florida",
+    "Population": {
+      "TwentyTwentyTwo": 117027,
+      "TwentyTwenty": 117292,
+      "Change": -0.23
+    },
+    "LandArea": {
+      "SquareMiles": 26.1,
+      "SquareKilometers": 67.6
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4494,
+      "SquareKilometers": 1735
+    },
+    "Location": {
+      "North": 27.98,
+      "West": 82.77
+    }
+  },
+  {
+    "Rank": 252,
+    "City": "West Jordan",
+    "State": "Utah",
+    "Population": {
+      "TwentyTwentyTwo": 116664,
+      "TwentyTwenty": 116961,
+      "Change": -0.25
+    },
+    "LandArea": {
+      "SquareMiles": 32.3,
+      "SquareKilometers": 83.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3621,
+      "SquareKilometers": 1398
+    },
+    "Location": {
+      "North": 40.6,
+      "West": 112
+    }
+  },
+  {
+    "Rank": 253,
+    "City": "Evansville",
+    "State": "Indiana",
+    "Population": {
+      "TwentyTwentyTwo": 115749,
+      "TwentyTwenty": 117298,
+      "Change": -1.32
+    },
+    "LandArea": {
+      "SquareMiles": 47.4,
+      "SquareKilometers": 122.8
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2475,
+      "SquareKilometers": 956
+    },
+    "Location": {
+      "North": 37.99,
+      "West": 87.53
+    }
+  },
+  {
+    "Rank": 254,
+    "City": "League City",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 115418,
+      "TwentyTwenty": 114392,
+      "Change": 0.9
+    },
+    "LandArea": {
+      "SquareMiles": 51.3,
+      "SquareKilometers": 132.9
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2230,
+      "SquareKilometers": 860
+    },
+    "Location": {
+      "North": 29.49,
+      "West": 95.11
+    }
+  },
+  {
+    "Rank": 255,
+    "City": "Antioch",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 115264,
+      "TwentyTwenty": 115291,
+      "Change": -0.02
+    },
+    "LandArea": {
+      "SquareMiles": 29.2,
+      "SquareKilometers": 75.6
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3948,
+      "SquareKilometers": 1524
+    },
+    "Location": {
+      "North": 37.98,
+      "West": 121.8
+    }
+  },
+  {
+    "Rank": 256,
+    "City": "Manchester",
+    "State": "New Hampshire",
+    "Population": {
+      "TwentyTwentyTwo": 115141,
+      "TwentyTwenty": 115644,
+      "Change": -0.43
+    },
+    "LandArea": {
+      "SquareMiles": 33.1,
+      "SquareKilometers": 85.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3494,
+      "SquareKilometers": 1349
+    },
+    "Location": {
+      "North": 42.98,
+      "West": 71.44
+    }
+  },
+  {
+    "Rank": 257,
+    "City": "High Point",
+    "State": "North Carolina",
+    "Population": {
+      "TwentyTwentyTwo": 115067,
+      "TwentyTwenty": 114059,
+      "Change": 0.88
+    },
+    "LandArea": {
+      "SquareMiles": 56.4,
+      "SquareKilometers": 146.1
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2022,
+      "SquareKilometers": 781
+    },
+    "Location": {
+      "North": 35.99,
+      "West": 79.99
+    }
+  },
+  {
+    "Rank": 258,
+    "City": "Waterbury",
+    "State": "Connecticut",
+    "Population": {
+      "TwentyTwentyTwo": 115016,
+      "TwentyTwenty": 114403,
+      "Change": 0.54
+    },
+    "LandArea": {
+      "SquareMiles": 28.5,
+      "SquareKilometers": 73.8
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4014,
+      "SquareKilometers": 1550
+    },
+    "Location": {
+      "North": 41.56,
+      "West": 73.04
+    }
+  },
+  {
+    "Rank": 259,
+    "City": "Westminster",
+    "State": "Colorado",
+    "Population": {
+      "TwentyTwentyTwo": 114533,
+      "TwentyTwenty": 116317,
+      "Change": -1.53
+    },
+    "LandArea": {
+      "SquareMiles": 31.6,
+      "SquareKilometers": 81.8
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3681,
+      "SquareKilometers": 1421
+    },
+    "Location": {
+      "North": 39.88,
+      "West": 105.06
+    }
+  },
+  {
+    "Rank": 260,
+    "City": "Richmond",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 114301,
+      "TwentyTwenty": 116448,
+      "Change": -1.84
+    },
+    "LandArea": {
+      "SquareMiles": 30.1,
+      "SquareKilometers": 78
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3869,
+      "SquareKilometers": 1494
+    },
+    "Location": {
+      "North": 37.95,
+      "West": 122.36
+    }
+  },
+  {
+    "Rank": 261,
+    "City": "Carlsbad",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 114160,
+      "TwentyTwenty": 114746,
+      "Change": -0.51
+    },
+    "LandArea": {
+      "SquareMiles": 37.8,
+      "SquareKilometers": 97.9
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3036,
+      "SquareKilometers": 1172
+    },
+    "Location": {
+      "North": 33.13,
+      "West": 117.28
+    }
+  },
+  {
+    "Rank": 262,
+    "City": "Las Cruces",
+    "State": "New Mexico",
+    "Population": {
+      "TwentyTwentyTwo": 113888,
+      "TwentyTwenty": 111385,
+      "Change": 2.25
+    },
+    "LandArea": {
+      "SquareMiles": 76.9,
+      "SquareKilometers": 199.2
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1448,
+      "SquareKilometers": 559
+    },
+    "Location": {
+      "North": 32.33,
+      "West": 106.79
+    }
+  },
+  {
+    "Rank": 263,
+    "City": "Murrieta",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 113783,
+      "TwentyTwenty": 110949,
+      "Change": 2.55
+    },
+    "LandArea": {
+      "SquareMiles": 33.6,
+      "SquareKilometers": 87
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3302,
+      "SquareKilometers": 1275
+    },
+    "Location": {
+      "North": 33.57,
+      "West": 117.19
+    }
+  },
+  {
+    "Rank": 264,
+    "City": "Lowell",
+    "State": "Massachusetts",
+    "Population": {
+      "TwentyTwentyTwo": 113608,
+      "TwentyTwenty": 115554,
+      "Change": -1.68
+    },
+    "LandArea": {
+      "SquareMiles": 13.6,
+      "SquareKilometers": 35.2
+    },
+    "PopulationDensity": {
+      "SquareMiles": 8497,
+      "SquareKilometers": 3281
+    },
+    "Location": {
+      "North": 42.64,
+      "West": 71.32
+    }
+  },
+  {
+    "Rank": 265,
+    "City": "Provo",
+    "State": "Utah",
+    "Population": {
+      "TwentyTwentyTwo": 113523,
+      "TwentyTwenty": 115162,
+      "Change": -1.42
+    },
+    "LandArea": {
+      "SquareMiles": 41.7,
+      "SquareKilometers": 108
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2762,
+      "SquareKilometers": 1066
+    },
+    "Location": {
+      "North": 40.25,
+      "West": 111.65
+    }
+  },
+  {
+    "Rank": 266,
+    "City": "Springfield",
+    "State": "Illinois",
+    "Population": {
+      "TwentyTwentyTwo": 113273,
+      "TwentyTwenty": 114394,
+      "Change": -0.98
+    },
+    "LandArea": {
+      "SquareMiles": 61.1,
+      "SquareKilometers": 158.2
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1872,
+      "SquareKilometers": 723
+    },
+    "Location": {
+      "North": 39.79,
+      "West": 89.64
+    }
+  },
+  {
+    "Rank": 267,
+    "City": "Elgin",
+    "State": "Illinois",
+    "Population": {
+      "TwentyTwentyTwo": 113177,
+      "TwentyTwenty": 114797,
+      "Change": -1.41
+    },
+    "LandArea": {
+      "SquareMiles": 38,
+      "SquareKilometers": 98.4
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3021,
+      "SquareKilometers": 1166
+    },
+    "Location": {
+      "North": 42.04,
+      "West": 88.33
+    }
+  },
+  {
+    "Rank": 268,
+    "City": "Odessa",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 112906,
+      "TwentyTwenty": 114428,
+      "Change": -1.33
+    },
+    "LandArea": {
+      "SquareMiles": 51.1,
+      "SquareKilometers": 132.3
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2239,
+      "SquareKilometers": 864
+    },
+    "Location": {
+      "North": 31.88,
+      "West": 102.35
+    }
+  },
+  {
+    "Rank": 269,
+    "City": "Lansing",
+    "State": "Michigan",
+    "Population": {
+      "TwentyTwentyTwo": 112537,
+      "TwentyTwenty": 112644,
+      "Change": -0.09
+    },
+    "LandArea": {
+      "SquareMiles": 39.1,
+      "SquareKilometers": 101.3
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2881,
+      "SquareKilometers": 1112
+    },
+    "Location": {
+      "North": 42.71,
+      "West": 84.56
+    }
+  },
+  {
+    "Rank": 270,
+    "City": "Pompano Beach",
+    "State": "Florida",
+    "Population": {
+      "TwentyTwentyTwo": 112302,
+      "TwentyTwenty": 112046,
+      "Change": 0.23
+    },
+    "LandArea": {
+      "SquareMiles": 24,
+      "SquareKilometers": 62.2
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4669,
+      "SquareKilometers": 1803
+    },
+    "Location": {
+      "North": 26.24,
+      "West": 80.13
+    }
+  },
+  {
+    "Rank": 271,
+    "City": "Beaumont",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 112089,
+      "TwentyTwenty": 115282,
+      "Change": -2.77
+    },
+    "LandArea": {
+      "SquareMiles": 82.5,
+      "SquareKilometers": 213.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1397,
+      "SquareKilometers": 539
+    },
+    "Location": {
+      "North": 30.08,
+      "West": 94.15
+    }
+  },
+  {
+    "Rank": 272,
+    "City": "Temecula",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 111752,
+      "TwentyTwenty": 110003,
+      "Change": 1.59
+    },
+    "LandArea": {
+      "SquareMiles": 37.3,
+      "SquareKilometers": 96.6
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2949,
+      "SquareKilometers": 1139
+    },
+    "Location": {
+      "North": 33.49,
+      "West": 117.13
+    }
+  },
+  {
+    "Rank": 273,
+    "City": "Gresham",
+    "State": "Oregon",
+    "Population": {
+      "TwentyTwentyTwo": 111621,
+      "TwentyTwenty": 114247,
+      "Change": -2.3
+    },
+    "LandArea": {
+      "SquareMiles": 23.5,
+      "SquareKilometers": 60.9
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4862,
+      "SquareKilometers": 1877
+    },
+    "Location": {
+      "North": 45.5,
+      "West": 122.44
+    }
+  },
+  {
+    "Rank": 274,
+    "City": "Allen",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 111551,
+      "TwentyTwenty": 104627,
+      "Change": 6.62
+    },
+    "LandArea": {
+      "SquareMiles": 26.4,
+      "SquareKilometers": 68.4
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3963,
+      "SquareKilometers": 1530
+    },
+    "Location": {
+      "North": 33.11,
+      "West": 96.67
+    }
+  },
+  {
+    "Rank": 275,
+    "City": "Pueblo",
+    "State": "Colorado",
+    "Population": {
+      "TwentyTwentyTwo": 111456,
+      "TwentyTwenty": 111876,
+      "Change": -0.38
+    },
+    "LandArea": {
+      "SquareMiles": 55.4,
+      "SquareKilometers": 143.5
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2019,
+      "SquareKilometers": 780
+    },
+    "Location": {
+      "North": 38.27,
+      "West": 104.61
+    }
+  },
+  {
+    "Rank": 276,
+    "City": "Everett",
+    "State": "Washington",
+    "Population": {
+      "TwentyTwentyTwo": 111337,
+      "TwentyTwenty": 110629,
+      "Change": 0.64
+    },
+    "LandArea": {
+      "SquareMiles": 33.2,
+      "SquareKilometers": 86
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3332,
+      "SquareKilometers": 1286
+    },
+    "Location": {
+      "North": 47.95,
+      "West": 122.19
+    }
+  },
+  {
+    "Rank": 277,
+    "City": "South Fulton",
+    "State": "Georgia",
+    "Population": {
+      "TwentyTwentyTwo": 111158,
+      "TwentyTwenty": 107436,
+      "Change": 3.46
+    },
+    "LandArea": {
+      "SquareMiles": 85.2,
+      "SquareKilometers": 220.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1261,
+      "SquareKilometers": 487
+    },
+    "Location": {
+      "North": 33.66,
+      "West": 84.57
+    }
+  },
+  {
+    "Rank": 278,
+    "City": "Peoria",
+    "State": "Illinois",
+    "Population": {
+      "TwentyTwentyTwo": 111021,
+      "TwentyTwenty": 113150,
+      "Change": -1.88
+    },
+    "LandArea": {
+      "SquareMiles": 48,
+      "SquareKilometers": 124.3
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2357,
+      "SquareKilometers": 910
+    },
+    "Location": {
+      "North": 40.75,
+      "West": 89.62
+    }
+  },
+  {
+    "Rank": 279,
+    "City": "Nampa",
+    "State": "Idaho",
+    "Population": {
+      "TwentyTwentyTwo": 110951,
+      "TwentyTwenty": 100200,
+      "Change": 10.73
+    },
+    "LandArea": {
+      "SquareMiles": 33.5,
+      "SquareKilometers": 86.8
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2991,
+      "SquareKilometers": 1155
+    },
+    "Location": {
+      "North": 43.58,
+      "West": 116.56
+    }
+  },
+  {
+    "Rank": 280,
+    "City": "Tuscaloosa",
+    "State": "Alabama",
+    "Population": {
+      "TwentyTwentyTwo": 110602,
+      "TwentyTwenty": 99600,
+      "Change": 11.05
+    },
+    "LandArea": {
+      "SquareMiles": 61.9,
+      "SquareKilometers": 160.3
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1609,
+      "SquareKilometers": 621
+    },
+    "Location": {
+      "North": 33.23,
+      "West": 87.53
+    }
+  },
+  {
+    "Rank": 281,
+    "City": "Miami Gardens",
+    "State": "Florida",
+    "Population": {
+      "TwentyTwentyTwo": 110497,
+      "TwentyTwenty": 111640,
+      "Change": -1.02
+    },
+    "LandArea": {
+      "SquareMiles": 18.2,
+      "SquareKilometers": 47.1
+    },
+    "PopulationDensity": {
+      "SquareMiles": 6134,
+      "SquareKilometers": 2368
+    },
+    "Location": {
+      "North": 25.95,
+      "West": 80.24
+    }
+  },
+  {
+    "Rank": 282,
+    "City": "Santa Maria",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 110125,
+      "TwentyTwenty": 109707,
+      "Change": 0.38
+    },
+    "LandArea": {
+      "SquareMiles": 22.8,
+      "SquareKilometers": 59.1
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4812,
+      "SquareKilometers": 1858
+    },
+    "Location": {
+      "North": 34.93,
+      "West": 120.44
+    }
+  },
+  {
+    "Rank": 283,
+    "City": "Downey",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 109934,
+      "TwentyTwenty": 114355,
+      "Change": -3.87
+    },
+    "LandArea": {
+      "SquareMiles": 12.4,
+      "SquareKilometers": 32.1
+    },
+    "PopulationDensity": {
+      "SquareMiles": 9222,
+      "SquareKilometers": 3561
+    },
+    "Location": {
+      "North": 33.94,
+      "West": 118.13
+    }
+  },
+  {
+    "Rank": 284,
+    "City": "Concord",
+    "State": "North Carolina",
+    "Population": {
+      "TwentyTwentyTwo": 109896,
+      "TwentyTwenty": 105240,
+      "Change": 4.42
+    },
+    "LandArea": {
+      "SquareMiles": 63.5,
+      "SquareKilometers": 164.5
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1657,
+      "SquareKilometers": 640
+    },
+    "Location": {
+      "North": 35.39,
+      "West": 80.64
+    }
+  },
+  {
+    "Rank": 285,
+    "City": "Ventura",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 109527,
+      "TwentyTwenty": 110763,
+      "Change": -1.12
+    },
+    "LandArea": {
+      "SquareMiles": 21.9,
+      "SquareKilometers": 56.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 5058,
+      "SquareKilometers": 1953
+    },
+    "Location": {
+      "North": 34.27,
+      "West": 119.25
+    }
+  },
+  {
+    "Rank": 286,
+    "City": "Costa Mesa",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 109521,
+      "TwentyTwenty": 111918,
+      "Change": -2.14
+    },
+    "LandArea": {
+      "SquareMiles": 15.8,
+      "SquareKilometers": 40.9
+    },
+    "PopulationDensity": {
+      "SquareMiles": 7083,
+      "SquareKilometers": 2735
+    },
+    "Location": {
+      "North": 33.67,
+      "West": 117.91
+    }
+  },
+  {
+    "Rank": 287,
+    "City": "Sugar Land",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 109414,
+      "TwentyTwenty": 111026,
+      "Change": -1.45
+    },
+    "LandArea": {
+      "SquareMiles": 40.5,
+      "SquareKilometers": 104.9
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2741,
+      "SquareKilometers": 1058
+    },
+    "Location": {
+      "North": 29.59,
+      "West": 95.63
+    }
+  },
+  {
+    "Rank": 288,
+    "City": "Menifee",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 109399,
+      "TwentyTwenty": 102527,
+      "Change": 6.7
+    },
+    "LandArea": {
+      "SquareMiles": 46.5,
+      "SquareKilometers": 120.4
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2205,
+      "SquareKilometers": 851
+    },
+    "Location": {
+      "North": 33.69,
+      "West": 117.18
+    }
+  },
+  {
+    "Rank": 289,
+    "City": "Tyler",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 109286,
+      "TwentyTwenty": 105995,
+      "Change": 3.1
+    },
+    "LandArea": {
+      "SquareMiles": 57.5,
+      "SquareKilometers": 148.9
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1843,
+      "SquareKilometers": 712
+    },
+    "Location": {
+      "North": 32.32,
+      "West": 95.31
+    }
+  },
+  {
+    "Rank": 290,
+    "City": "Sparks",
+    "State": "Nevada",
+    "Population": {
+      "TwentyTwentyTwo": 109226,
+      "TwentyTwenty": 108445,
+      "Change": 0.72
+    },
+    "LandArea": {
+      "SquareMiles": 36.4,
+      "SquareKilometers": 94.3
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2979,
+      "SquareKilometers": 1150
+    },
+    "Location": {
+      "North": 39.57,
+      "West": 119.72
+    }
+  },
+  {
+    "Rank": 291,
+    "City": "Greeley",
+    "State": "Colorado",
+    "Population": {
+      "TwentyTwentyTwo": 109209,
+      "TwentyTwenty": 108795,
+      "Change": 0.38
+    },
+    "LandArea": {
+      "SquareMiles": 48.9,
+      "SquareKilometers": 126.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2225,
+      "SquareKilometers": 859
+    },
+    "Location": {
+      "North": 40.41,
+      "West": 104.77
+    }
+  },
+  {
+    "Rank": 292,
+    "City": "Rio Rancho",
+    "State": "New Mexico",
+    "Population": {
+      "TwentyTwentyTwo": 108082,
+      "TwentyTwenty": 104046,
+      "Change": 3.88
+    },
+    "LandArea": {
+      "SquareMiles": 103.4,
+      "SquareKilometers": 267.8
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1006,
+      "SquareKilometers": 388
+    },
+    "Location": {
+      "North": 35.29,
+      "West": 106.7
+    }
+  },
+  {
+    "Rank": 293,
+    "City": "Sandy Springs",
+    "State": "Georgia",
+    "Population": {
+      "TwentyTwentyTwo": 107763,
+      "TwentyTwenty": 108080,
+      "Change": -0.29
+    },
+    "LandArea": {
+      "SquareMiles": 37.7,
+      "SquareKilometers": 97.6
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2867,
+      "SquareKilometers": 1107
+    },
+    "Location": {
+      "North": 33.93,
+      "West": 84.37
+    }
+  },
+  {
+    "Rank": 294,
+    "City": "Dearborn",
+    "State": "Michigan",
+    "Population": {
+      "TwentyTwentyTwo": 107710,
+      "TwentyTwenty": 109976,
+      "Change": -2.06
+    },
+    "LandArea": {
+      "SquareMiles": 24.2,
+      "SquareKilometers": 62.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4544,
+      "SquareKilometers": 1754
+    },
+    "Location": {
+      "North": 42.31,
+      "West": 83.21
+    }
+  },
+  {
+    "Rank": 295,
+    "City": "Jurupa Valley",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 107609,
+      "TwentyTwenty": 105053,
+      "Change": 2.43
+    },
+    "LandArea": {
+      "SquareMiles": 42.9,
+      "SquareKilometers": 111.1
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2449,
+      "SquareKilometers": 946
+    },
+    "Location": {
+      "North": 34,
+      "West": 117.47
+    }
+  },
+  {
+    "Rank": 296,
+    "City": "Edison",
+    "State": "New Jersey",
+    "Population": {
+      "TwentyTwentyTwo": 107361,
+      "TwentyTwenty": 107588,
+      "Change": -0.21
+    },
+    "LandArea": {
+      "SquareMiles": 30.1,
+      "SquareKilometers": 78
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3574,
+      "SquareKilometers": 1380
+    },
+    "Location": {
+      "North": 40.5,
+      "West": 74.35
+    }
+  },
+  {
+    "Rank": 297,
+    "City": "Spokane Valley",
+    "State": "Washington",
+    "Population": {
+      "TwentyTwentyTwo": 107325,
+      "TwentyTwenty": 102976,
+      "Change": 4.22
+    },
+    "LandArea": {
+      "SquareMiles": 37.7,
+      "SquareKilometers": 97.6
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2731,
+      "SquareKilometers": 1054
+    },
+    "Location": {
+      "North": 47.66,
+      "West": 117.23
+    }
+  },
+  {
+    "Rank": 298,
+    "City": "Hillsboro",
+    "State": "Oregon",
+    "Population": {
+      "TwentyTwentyTwo": 107299,
+      "TwentyTwenty": 106447,
+      "Change": 0.8
+    },
+    "LandArea": {
+      "SquareMiles": 25.7,
+      "SquareKilometers": 66.6
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4142,
+      "SquareKilometers": 1599
+    },
+    "Location": {
+      "North": 45.53,
+      "West": 122.94
+    }
+  },
+  {
+    "Rank": 299,
+    "City": "Davie",
+    "State": "Florida",
+    "Population": {
+      "TwentyTwentyTwo": 106513,
+      "TwentyTwenty": 105691,
+      "Change": 0.78
+    },
+    "LandArea": {
+      "SquareMiles": 34.9,
+      "SquareKilometers": 90.4
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3028,
+      "SquareKilometers": 1169
+    },
+    "Location": {
+      "North": 26.08,
+      "West": 80.28
+    }
+  },
+  {
+    "Rank": 300,
+    "City": "Green Bay",
+    "State": "Wisconsin",
+    "Population": {
+      "TwentyTwentyTwo": 106095,
+      "TwentyTwenty": 107395,
+      "Change": -1.21
+    },
+    "LandArea": {
+      "SquareMiles": 45.5,
+      "SquareKilometers": 117.8
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2360,
+      "SquareKilometers": 910
+    },
+    "Location": {
+      "North": 44.52,
+      "West": 87.99
+    }
+  },
+  {
+    "Rank": 301,
+    "City": "Centennial",
+    "State": "Colorado",
+    "Population": {
+      "TwentyTwentyTwo": 105865,
+      "TwentyTwenty": 108418,
+      "Change": -2.35
+    },
+    "LandArea": {
+      "SquareMiles": 29.7,
+      "SquareKilometers": 76.9
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3650,
+      "SquareKilometers": 1410
+    },
+    "Location": {
+      "North": 39.59,
+      "West": 104.87
+    }
+  },
+  {
+    "Rank": 302,
+    "City": "Buckeye",
+    "State": "Arizona",
+    "Population": {
+      "TwentyTwentyTwo": 105567,
+      "TwentyTwenty": 91502,
+      "Change": 15.37
+    },
+    "LandArea": {
+      "SquareMiles": 393,
+      "SquareKilometers": 1017.9
+    },
+    "PopulationDensity": {
+      "SquareMiles": 233,
+      "SquareKilometers": 90
+    },
+    "Location": {
+      "North": 33.43,
+      "West": 112.64
+    }
+  },
+  {
+    "Rank": 303,
+    "City": "Boulder",
+    "State": "Colorado",
+    "Population": {
+      "TwentyTwentyTwo": 105485,
+      "TwentyTwenty": 108250,
+      "Change": -2.55
+    },
+    "LandArea": {
+      "SquareMiles": 26.3,
+      "SquareKilometers": 68.1
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4116,
+      "SquareKilometers": 1589
+    },
+    "Location": {
+      "North": 40.02,
+      "West": 105.25
+    }
+  },
+  {
+    "Rank": 304,
+    "City": "Goodyear",
+    "State": "Arizona",
+    "Population": {
+      "TwentyTwentyTwo": 105406,
+      "TwentyTwenty": 95294,
+      "Change": 10.61
+    },
+    "LandArea": {
+      "SquareMiles": 191.3,
+      "SquareKilometers": 495.5
+    },
+    "PopulationDensity": {
+      "SquareMiles": 498,
+      "SquareKilometers": 192
+    },
+    "Location": {
+      "North": 33.25,
+      "West": 112.37
+    }
+  },
+  {
+    "Rank": 305,
+    "City": "El Monte",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 105312,
+      "TwentyTwenty": 109450,
+      "Change": -3.78
+    },
+    "LandArea": {
+      "SquareMiles": 9.6,
+      "SquareKilometers": 24.9
+    },
+    "PopulationDensity": {
+      "SquareMiles": 11401,
+      "SquareKilometers": 4402
+    },
+    "Location": {
+      "North": 34.07,
+      "West": 118.03
+    }
+  },
+  {
+    "Rank": 306,
+    "City": "West Covina",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 105013,
+      "TwentyTwenty": 109501,
+      "Change": -4.1
+    },
+    "LandArea": {
+      "SquareMiles": 16,
+      "SquareKilometers": 41.4
+    },
+    "PopulationDensity": {
+      "SquareMiles": 6844,
+      "SquareKilometers": 2642
+    },
+    "Location": {
+      "North": 34.06,
+      "West": 117.91
+    }
+  },
+  {
+    "Rank": 307,
+    "City": "Brockton",
+    "State": "Massachusetts",
+    "Population": {
+      "TwentyTwentyTwo": 104826,
+      "TwentyTwenty": 105643,
+      "Change": -0.77
+    },
+    "LandArea": {
+      "SquareMiles": 21.3,
+      "SquareKilometers": 55.2
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4960,
+      "SquareKilometers": 1920
+    },
+    "Location": {
+      "North": 42.08,
+      "West": 71.02
+    }
+  },
+  {
+    "Rank": 308,
+    "City": "New Braunfels",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 104707,
+      "TwentyTwenty": 90403,
+      "Change": 15.82
+    },
+    "LandArea": {
+      "SquareMiles": 45.2,
+      "SquareKilometers": 117.1
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2000,
+      "SquareKilometers": 770
+    },
+    "Location": {
+      "North": 29.7,
+      "West": 98.12
+    }
+  },
+  {
+    "Rank": 309,
+    "City": "El Cajon",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 104414,
+      "TwentyTwenty": 106215,
+      "Change": -1.7
+    },
+    "LandArea": {
+      "SquareMiles": 14.5,
+      "SquareKilometers": 37.6
+    },
+    "PopulationDensity": {
+      "SquareMiles": 7325,
+      "SquareKilometers": 2828
+    },
+    "Location": {
+      "North": 32.8,
+      "West": 116.96
+    }
+  },
+  {
+    "Rank": 310,
+    "City": "Edinburg",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 104294,
+      "TwentyTwenty": 100243,
+      "Change": 4.04
+    },
+    "LandArea": {
+      "SquareMiles": 44.7,
+      "SquareKilometers": 115.8
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2243,
+      "SquareKilometers": 866
+    },
+    "Location": {
+      "North": 26.32,
+      "West": 98.16
+    }
+  },
+  {
+    "Rank": 311,
+    "City": "Renton",
+    "State": "Washington",
+    "Population": {
+      "TwentyTwentyTwo": 104047,
+      "TwentyTwenty": 106785,
+      "Change": -2.56
+    },
+    "LandArea": {
+      "SquareMiles": 23.5,
+      "SquareKilometers": 60.9
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4544,
+      "SquareKilometers": 1754
+    },
+    "Location": {
+      "North": 47.48,
+      "West": 122.19
+    }
+  },
+  {
+    "Rank": 312,
+    "City": "Burbank",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 103920,
+      "TwentyTwenty": 107337,
+      "Change": -3.18
+    },
+    "LandArea": {
+      "SquareMiles": 17.3,
+      "SquareKilometers": 44.8
+    },
+    "PopulationDensity": {
+      "SquareMiles": 6204,
+      "SquareKilometers": 2395
+    },
+    "Location": {
+      "North": 34.19,
+      "West": 118.33
+    }
+  },
+  {
+    "Rank": 313,
+    "City": "Inglewood",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 103621,
+      "TwentyTwenty": 107762,
+      "Change": -3.84
+    },
+    "LandArea": {
+      "SquareMiles": 9.1,
+      "SquareKilometers": 23.6
+    },
+    "PopulationDensity": {
+      "SquareMiles": 11842,
+      "SquareKilometers": 4572
+    },
+    "Location": {
+      "North": 33.96,
+      "West": 118.34
+    }
+  },
+  {
+    "Rank": 314,
+    "City": "Rialto",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 103545,
+      "TwentyTwenty": 104026,
+      "Change": -0.46
+    },
+    "LandArea": {
+      "SquareMiles": 24.1,
+      "SquareKilometers": 62.4
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4316,
+      "SquareKilometers": 1666
+    },
+    "Location": {
+      "North": 34.12,
+      "West": 117.39
+    }
+  },
+  {
+    "Rank": 315,
+    "City": "Lee's Summit",
+    "State": "Missouri",
+    "Population": {
+      "TwentyTwentyTwo": 103465,
+      "TwentyTwenty": 101108,
+      "Change": 2.33
+    },
+    "LandArea": {
+      "SquareMiles": 63.9,
+      "SquareKilometers": 165.5
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1582,
+      "SquareKilometers": 611
+    },
+    "Location": {
+      "North": 38.92,
+      "West": 94.38
+    }
+  },
+  {
+    "Rank": 316,
+    "City": "Bend",
+    "State": "Oregon",
+    "Population": {
+      "TwentyTwentyTwo": 103254,
+      "TwentyTwenty": 99178,
+      "Change": 4.11
+    },
+    "LandArea": {
+      "SquareMiles": 33.6,
+      "SquareKilometers": 87
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2952,
+      "SquareKilometers": 1140
+    },
+    "Location": {
+      "North": 44.06,
+      "West": 121.31
+    }
+  },
+  {
+    "Rank": 317,
+    "City": "Woodbridge",
+    "State": "New Jersey",
+    "Population": {
+      "TwentyTwentyTwo": 103229,
+      "TwentyTwenty": 103639,
+      "Change": -0.4
+    },
+    "LandArea": {
+      "SquareMiles": 23.3,
+      "SquareKilometers": 60.3
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4448,
+      "SquareKilometers": 1717
+    },
+    "Location": {
+      "North": 40.56,
+      "West": 74.29
+    }
+  },
+  {
+    "Rank": 318,
+    "City": "South Bend",
+    "State": "Indiana",
+    "Population": {
+      "TwentyTwentyTwo": 103110,
+      "TwentyTwenty": 103453,
+      "Change": -0.33
+    },
+    "LandArea": {
+      "SquareMiles": 42,
+      "SquareKilometers": 108.8
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2463,
+      "SquareKilometers": 951
+    },
+    "Location": {
+      "North": 41.68,
+      "West": 86.27
+    }
+  },
+  {
+    "Rank": 319,
+    "City": "Wichita Falls",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 102664,
+      "TwentyTwenty": 102316,
+      "Change": 0.34
+    },
+    "LandArea": {
+      "SquareMiles": 72,
+      "SquareKilometers": 186.5
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1421,
+      "SquareKilometers": 549
+    },
+    "Location": {
+      "North": 33.91,
+      "West": 98.53
+    }
+  },
+  {
+    "Rank": 320,
+    "City": "St. George",
+    "State": "Utah",
+    "Population": {
+      "TwentyTwentyTwo": 102519,
+      "TwentyTwenty": 95342,
+      "Change": 7.53
+    },
+    "LandArea": {
+      "SquareMiles": 78.5,
+      "SquareKilometers": 203.3
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1215,
+      "SquareKilometers": 469
+    },
+    "Location": {
+      "North": 37.08,
+      "West": 113.56
+    }
+  },
+  {
+    "Rank": 321,
+    "City": "Fishers",
+    "State": "Indiana",
+    "Population": {
+      "TwentyTwentyTwo": 101966,
+      "TwentyTwenty": 98977,
+      "Change": 3.02
+    },
+    "LandArea": {
+      "SquareMiles": 35.6,
+      "SquareKilometers": 92.2
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2780,
+      "SquareKilometers": 1070
+    },
+    "Location": {
+      "North": 39.96,
+      "West": 85.97
+    }
+  },
+  {
+    "Rank": 322,
+    "City": "Carmel",
+    "State": "Indiana",
+    "Population": {
+      "TwentyTwentyTwo": 101964,
+      "TwentyTwenty": 99757,
+      "Change": 2.21
+    },
+    "LandArea": {
+      "SquareMiles": 49.1,
+      "SquareKilometers": 127.2
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2032,
+      "SquareKilometers": 785
+    },
+    "Location": {
+      "North": 39.97,
+      "West": 86.15
+    }
+  },
+  {
+    "Rank": 323,
+    "City": "Vacaville",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 101918,
+      "TwentyTwenty": 102386,
+      "Change": -0.46
+    },
+    "LandArea": {
+      "SquareMiles": 29.9,
+      "SquareKilometers": 77.4
+    },
+    "PopulationDensity": {
+      "SquareMiles": 3424,
+      "SquareKilometers": 1322
+    },
+    "Location": {
+      "North": 38.36,
+      "West": 121.97
+    }
+  },
+  {
+    "Rank": 324,
+    "City": "Quincy",
+    "State": "Massachusetts",
+    "Population": {
+      "TwentyTwentyTwo": 101727,
+      "TwentyTwenty": 101636,
+      "Change": 0.09
+    },
+    "LandArea": {
+      "SquareMiles": 16.6,
+      "SquareKilometers": 43
+    },
+    "PopulationDensity": {
+      "SquareMiles": 6123,
+      "SquareKilometers": 2364
+    },
+    "Location": {
+      "North": 42.26,
+      "West": 71.01
+    }
+  },
+  {
+    "Rank": 325,
+    "City": "Conroe",
+    "State": "Texas",
+    "Population": {
+      "TwentyTwentyTwo": 101405,
+      "TwentyTwenty": 89956,
+      "Change": 12.73
+    },
+    "LandArea": {
+      "SquareMiles": 72,
+      "SquareKilometers": 186.5
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1249,
+      "SquareKilometers": 482
+    },
+    "Location": {
+      "North": 30.32,
+      "West": 95.49
+    }
+  },
+  {
+    "Rank": 326,
+    "City": "Chico",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 101299,
+      "TwentyTwenty": 101475,
+      "Change": -0.17
+    },
+    "LandArea": {
+      "SquareMiles": 34.1,
+      "SquareKilometers": 88.3
+    },
+    "PopulationDensity": {
+      "SquareMiles": 2976,
+      "SquareKilometers": 1149
+    },
+    "Location": {
+      "North": 39.76,
+      "West": 121.82
+    }
+  },
+  {
+    "Rank": 327,
+    "City": "San Mateo",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 100984,
+      "TwentyTwenty": 105661,
+      "Change": -4.43
+    },
+    "LandArea": {
+      "SquareMiles": 12.1,
+      "SquareKilometers": 31.3
+    },
+    "PopulationDensity": {
+      "SquareMiles": 8732,
+      "SquareKilometers": 3371
+    },
+    "Location": {
+      "North": 37.56,
+      "West": 122.31
+    }
+  },
+  {
+    "Rank": 328,
+    "City": "Lynn",
+    "State": "Massachusetts",
+    "Population": {
+      "TwentyTwentyTwo": 100891,
+      "TwentyTwenty": 101253,
+      "Change": -0.36
+    },
+    "LandArea": {
+      "SquareMiles": 10.7,
+      "SquareKilometers": 27.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 9463,
+      "SquareKilometers": 3654
+    },
+    "Location": {
+      "North": 42.47,
+      "West": 70.96
+    }
+  },
+  {
+    "Rank": 329,
+    "City": "Albany",
+    "State": "New York",
+    "Population": {
+      "TwentyTwentyTwo": 100826,
+      "TwentyTwenty": 99224,
+      "Change": 1.61
+    },
+    "LandArea": {
+      "SquareMiles": 21.4,
+      "SquareKilometers": 55.4
+    },
+    "PopulationDensity": {
+      "SquareMiles": 4637,
+      "SquareKilometers": 1790
+    },
+    "Location": {
+      "North": 42.67,
+      "West": 73.8
+    }
+  },
+  {
+    "Rank": 330,
+    "City": "Hesperia",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 100744,
+      "TwentyTwenty": 99818,
+      "Change": 0.93
+    },
+    "LandArea": {
+      "SquareMiles": 72.7,
+      "SquareKilometers": 188.3
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1373,
+      "SquareKilometers": 530
+    },
+    "Location": {
+      "North": 34.4,
+      "West": 117.32
+    }
+  },
+  {
+    "Rank": 331,
+    "City": "New Bedford",
+    "State": "Massachusetts",
+    "Population": {
+      "TwentyTwentyTwo": 100682,
+      "TwentyTwenty": 101079,
+      "Change": -0.39
+    },
+    "LandArea": {
+      "SquareMiles": 20,
+      "SquareKilometers": 51.8
+    },
+    "PopulationDensity": {
+      "SquareMiles": 5054,
+      "SquareKilometers": 1951
+    },
+    "Location": {
+      "North": 41.66,
+      "West": 70.94
+    }
+  },
+  {
+    "Rank": 332,
+    "City": "Davenport",
+    "State": "Iowa",
+    "Population": {
+      "TwentyTwentyTwo": 100486,
+      "TwentyTwenty": 101724,
+      "Change": -1.22
+    },
+    "LandArea": {
+      "SquareMiles": 63.8,
+      "SquareKilometers": 165.2
+    },
+    "PopulationDensity": {
+      "SquareMiles": 1594,
+      "SquareKilometers": 615
+    },
+    "Location": {
+      "North": 41.56,
+      "West": 90.6
+    }
+  },
+  {
+    "Rank": 333,
+    "City": "Daly City",
+    "State": "California",
+    "Population": {
+      "TwentyTwentyTwo": 100007,
+      "TwentyTwenty": 104901,
+      "Change": -4.67
+    },
+    "LandArea": {
+      "SquareMiles": 7.6,
+      "SquareKilometers": 19.7
+    },
+    "PopulationDensity": {
+      "SquareMiles": 13803,
+      "SquareKilometers": 5329
+    },
+    "Location": {
+      "North": 37.69,
+      "West": 122.47
+    }
+  }
+]
