@@ -15,6 +15,10 @@ fs.readFile("./data.json", "utf8", (err, data) => {
         }
 
         for (let j = i + 1; j < json.length; j++) {
+            if (json[j].Population.TwentyTwentyTwo < 200000) {
+                continue;
+            }
+
             if (json[i].Population.TwentyTwentyTwo > json[j].Population.TwentyTwentyTwo * 2) {
                 continue;
             }
