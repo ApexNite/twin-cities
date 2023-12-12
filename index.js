@@ -38,11 +38,6 @@ fs.readFile("./data.json", "utf8", (err, data) => {
         }
     }
 
-    if (twins.length % 2 != 0) {
-        console.log("Warning: count is not even.");
-        return;
-    }
-
     console.log(`Found ${twins.length} pairs of twins.`);
 
     fs.writeFileSync("./cities.json", JSON.stringify(twins, null, 2));
